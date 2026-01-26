@@ -2,11 +2,11 @@
 
 Active scheduled tasks managed by Clawdbot.
 
-## Daily Schedule (UTC)
+## Schedule (UTC)
 
-| Time | Job | Target Group | Description |
-|------|-----|--------------|-------------|
-| 09:00 | wg-gesucht-inbox | g-cata-dani | Check WG-Gesucht messages |
+| Schedule | Job | Target Group | Description |
+|----------|-----|--------------|-------------|
+| Every 3h | wg-gesucht-inbox | g-cata-dani | Check messages + bump post |
 | 10:00 | instagram-veddelholzer-daily | g-cata-dani | Check Instagram DMs |
 | 11:00 | tiktok-rivoara-warmup | g-forelox-cult | TikTok warmup + influencer scouting |
 | 14:00 | wg-gesucht-search | g-cata-dani | Search new Vienna apartments |
@@ -17,9 +17,15 @@ Active scheduled tasks managed by Clawdbot.
 
 ### wg-gesucht-inbox
 - **ID:** `07898ab0-1155-4942-aef1-779c1be5802d`
-- **Schedule:** `0 9 * * *` (09:00 UTC daily)
+- **Schedule:** `0 */3 * * *` (every 3 hours)
 - **Target:** WhatsApp group g-cata-dani (`120363213979130244@g.us`)
-- **Task:** Check WG-Gesucht INBOX for new messages. Use browser (port 9222) to check https://www.wg-gesucht.de/nachrichten.html. Before reporting, read /root/clawd/projects/wg-gesucht/history.json to see what's already been sent. Only report NEW/unread messages. After checking, update history.json with seen message IDs. Context: Vienna apartment, move-in March 15 - April 1, 2026.
+- **Task:** Check WG-Gesucht INBOX + UPDATE POST. Use browser (port 9222).
+
+  **Sub-tasks:**
+  1. **CHECK INBOX:** Go to https://www.wg-gesucht.de/nachrichten.html - check for new messages. Before reporting, read /root/clawd/projects/wg-gesucht/history.json. Only report NEW/unread messages.
+  2. **BUMP POST:** Go to my active listing and click 'Gesuch aktualisieren' to push it back to top of search results.
+
+  After checking, update history.json with seen message IDs. Context: Vienna apartment, move-in March 15 - April 1, 2026.
 
 ### instagram-veddelholzer-daily
 - **ID:** `941d4433-1885-45da-84e9-016dc5c286e1`

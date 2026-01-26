@@ -86,7 +86,7 @@ See **cron-jobs.md** for full details.
 
 | Job | Schedule | Target |
 |-----|----------|--------|
-| wg-gesucht-inbox | 09:00 UTC | g-cata-dani |
+| wg-gesucht-inbox | Every 3h | g-cata-dani |
 | instagram-veddelholzer-daily | 10:00 UTC | g-cata-dani |
 | tiktok-rivoara-warmup | 11:00 UTC | g-forelox-cult |
 | wg-gesucht-search | 14:00 UTC | g-cata-dani |

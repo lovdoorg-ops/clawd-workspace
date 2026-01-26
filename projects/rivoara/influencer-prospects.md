@@ -24,23 +24,23 @@ Potential TikTok creators for product seeding — shower filter in exchange for 
 
 ## A-Tier Prospects
 
-| Handle | Followers | Niche | Notes | Added |
-|--------|-----------|-------|-------|-------|
-| @girlssavespace | ~small | GRWM skincare | German, "Mein erstes GURWM" - just starting out (53 likes), PERFECT for free product! | 2026-01-26 |
-| @karina.tbn | ~TBD | Skincare routine | German, "Meine Skincare-Reinigung" video (777 likes), aesthetic content | 2026-01-26 |
-| @katja.stz | ~TBD | Skincare | German, "die wahren benutzen zinksalbe" (4909 likes), authentic content | 2026-01-26 |
-| @ellendieerdbeere | ~TBD | GRWM skincare | German, aesthetic "Skincare Girly" vibes, multiple skincare videos | 2026-01-26 |
-| @stellaaelena | ~TBD | Skincare | German, has IG: stellaarhg, beauty content | 2026-01-26 |
-| @miadarlingxo | ~TBD | Skincare tips | German, "miapearl", skincare routine advice (879 likes) | 2026-01-26 |
+| Handle | URL | Niche | Notes | Added |
+|--------|-----|-------|-------|-------|
+| @girlssavespace | https://www.tiktok.com/@girlssavespace | GRWM skincare | German, "Mein erstes GURWM" - just starting (53 likes), PERFECT! | 2026-01-26 |
+| @karina.tbn | https://www.tiktok.com/@karina.tbn | Skincare routine | German, "Meine Skincare-Reinigung" (777 likes), aesthetic | 2026-01-26 |
+| @katja.stz | https://www.tiktok.com/@katja.stz | Skincare | German, "die wahren benutzen zinksalbe" (4909 likes), authentic | 2026-01-26 |
+| @ellendieerdbeere | https://www.tiktok.com/@ellendieerdbeere | GRWM skincare | German, aesthetic "Skincare Girly" vibes | 2026-01-26 |
+| @stellaaelena | https://www.tiktok.com/@stellaaelena | Skincare | German, has IG: stellaarhg | 2026-01-26 |
+| @miadarlingxo | https://www.tiktok.com/@miadarlingxo | Skincare tips | German, "miapearl" (879 likes) | 2026-01-26 |
 
 ## B-Tier Prospects
 
-| Handle | Followers | Niche | Notes | Added |
-|--------|-----------|-------|-------|-------|
-| @sannnaae | ~TBD | Skin prep/GRWM | German (Sanae), skin prep content (40.1K likes) - might be bigger | 2026-01-26 |
-| @bynhupham | ~TBD | Skincare/acne | German, Nhu Pham, acne journey content (43.9K likes) - might be too big | 2026-01-26 |
-| @skinsciencebymerit | ~TBD | Skincare education | German, skincare tips - might be educational/less personal | 2026-01-26 |
-| @ann.dyu | ~TBD | Skincare/K-beauty | German (Anna Dyu), already has brand deals (Abib) - might expect payment | 2026-01-26 |
+| Handle | URL | Niche | Notes | Added |
+|--------|-----|-------|-------|-------|
+| @sannnaae | https://www.tiktok.com/@sannnaae | Skin prep/GRWM | German, skin prep (40.1K likes) - might be bigger | 2026-01-26 |
+| @bynhupham | https://www.tiktok.com/@bynhupham | Skincare/acne | German, acne journey (43.9K likes) - might be too big | 2026-01-26 |
+| @skinsciencebymerit | https://www.tiktok.com/@skinsciencebymerit | Skincare education | German, skincare tips - educational | 2026-01-26 |
+| @ann.dyu | https://www.tiktok.com/@ann.dyu | Skincare/K-beauty | German, has brand deals (Abib) - might expect payment | 2026-01-26 |
 
 ---
 

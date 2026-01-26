@@ -3,14 +3,14 @@
 Potential TikTok creators for product seeding — shower filter in exchange for content (unpaid).
 
 ## Criteria
-- Aesthetic young women
-- Good hair and skin (shows our product's benefits)
+- Aesthetic young women with good hair and skin (shows our product's benefits)
+- Beauty-focused content (skincare, haircare, routines, GRWM, self-care)
+- Potential to make quality content (matters more than follower count)
 - German-speaking or Germany-based preferred
-- Engaged audience (not just follower count)
-- Content style: skincare, haircare, bathroom routines, GRWM, self-care
+- **Smaller accounts preferred** — under 5k more likely to accept free product, less likely to ask for payment
 
 ## Tiers
-- **S-tier**: Perfect fit, high engagement, aesthetic matches brand
+- **S-tier**: Perfect aesthetic, quality content, likely to accept product-for-content
 - **A-tier**: Good fit, worth reaching out
 - **B-tier**: Potential, keep on radar
 
@@ -49,6 +49,8 @@ Potential TikTok creators for product seeding — shower filter in exchange for 
 ---
 
 ## Notes
-- Focus on micro-influencers (5k-100k) — more authentic, better engagement rates
+- **Focus on nano/micro creators (500-5k ideal)** — more likely to accept free product, won't ask for payment
+- Bigger accounts (5k+) often expect money — skip unless exceptional fit
 - Look for creators who already talk about water quality, hair damage, skin issues
+- Quality of content > follower count
 - German market priority, but DACH region works too

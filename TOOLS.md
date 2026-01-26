@@ -11,10 +11,12 @@ Skills define *how* tools work. This file is for *your* specifics — the stuff 
 | **GitHub** | `gh` | C4T4 | ✅ Ready |
 | **Railway** | `railway` | cata.waack@gmail.com | ✅ Ready |
 | **Vercel** | `vercel` | c4t4 | ✅ Ready |
+| **WhatsApp** | Clawdbot | +1 786 727 6503 | ✅ Linked |
 
 ### GitHub
 - SSH key added: `~/.ssh/id_ed25519.pub`
 - Can create repos, manage issues/PRs, use API
+- Workspace repo: https://github.com/C4T4/clawd-workspace (private)
 
 ### Railway
 - Deploy apps, databases, services
@@ -23,6 +25,11 @@ Skills define *how* tools work. This file is for *your* specifics — the stuff 
 ### Vercel
 - Static sites, Next.js, landing pages
 - `vercel` to deploy, `vercel --prod` for production
+
+### WhatsApp
+- selfChatMode enabled — use self-chat as relay
+- In groups: say "clawd" to trigger
+- Owner: +17867276503
 
 ---
 
@@ -75,12 +82,18 @@ DISPLAY=:99 google-chrome --no-sandbox https://example.com &
 
 ## Cron Jobs
 
-| Job | Schedule | Task |
-|-----|----------|------|
-| wg-gesucht-inbox | 09:00 UTC | Check WG-Gesucht messages → WhatsApp |
-| instagram-veddelholzer-daily | 10:00 UTC | Check Instagram DMs → WhatsApp |
-| tiktok-rivoara-warmup | 11:00 UTC | Scroll & engage with beauty content (silent) |
-| wg-gesucht-search | 14:00 UTC | Search new Vienna apartments → WhatsApp |
+See **cron-jobs.md** for full details.
+
+| Job | Schedule | Target |
+|-----|----------|--------|
+| wg-gesucht-inbox | 09:00 UTC | g-cata-dani |
+| instagram-veddelholzer-daily | 10:00 UTC | g-cata-dani |
+| tiktok-rivoara-warmup | 11:00 UTC | g-forelox-cult |
+| wg-gesucht-search | 14:00 UTC | g-cata-dani |
+
+### WhatsApp Groups
+- **g-cata-dani:** `120363213979130244@g.us`
+- **g-forelox-cult:** `120363422731792463@g.us`
 
 ---
 

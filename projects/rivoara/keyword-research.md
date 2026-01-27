@@ -135,12 +135,43 @@ From gutefrage.net user (mother of 2 girls with long hair):
 
 ## Competitor Solutions People Mention
 
-1. **Duschfilter** (shower filter) — but people complain they don't work!
+1. **Duschfilter** (shower filter) — but people complain cheap ones don't work!
 2. **Saure Rinse** (acid rinse with vinegar/citric acid) — DIY, messy
 3. **Stilles Wasser** (bottled still water for final rinse) — wasteful
 4. **L'Oréal Metal DX shampoo** — removes metal buildup
 5. **Low pH conditioner** — closes hair cuticle
 6. **Enthärtungsanlage** (whole-house water softener) — expensive (4-figure €)
+
+---
+
+## Amazon Competitor Analysis (Amazon.de)
+
+| Product | Price | Rating | Reviews | Notes |
+|---------|-------|--------|---------|-------|
+| **Philips Shower Filter** | €24.19 | 4.1⭐ | 9,800 | Best Seller, 2K+ bought/month |
+| **AquaHomeGroup 15 Steps** | €25.56 | 4.0⭐ | 18,900 | Most reviewed |
+| **36 Stage Shower Filter** | ~€24 | 4.2⭐ | 1,500 | Vitamin C + E |
+| **AGUALEVE** | €16.99 | 4.0⭐ | 563 | Made in EU, 500+ bought/month |
+| **Tylola MAX** | €16.81 | 4.0⭐ | 39 | NSF42 certified |
+
+**Price Range:** €16-25 for most competitors
+
+### Rivoara vs Competitors
+- **Rivoara: €69** = 3-4x more expensive than budget options
+- Must justify premium with: better filtration, durability, aesthetic, results
+- Opportunity: "Cheap filters don't work" messaging backed by user complaints
+
+### Review Language from Amazon
+Positive:
+- "Keine strohigen Haare und weichere Haut" (no straw hair, softer skin)
+- "der Kalk komplett weg ist" (limescale completely gone)
+- "Wirkt super bei sehr kalkhaltigem Wasser"
+
+Negative:
+- "The filter doesn't filter anything"
+- "whole faucet filled with chalk residue"
+
+**Insight:** Even 4-star products have complaints about not working → creates space for premium solution
 
 ---
 

@@ -1,7 +1,19 @@
 {
-  "lastInboxCheck": null,
+  "lastInboxCheck": "2026-01-27T21:25:00Z",
   "lastSearchCheck": null,
   "seenListings": [],
-  "seenMessages": [],
+  "seenMessages": [
+    {"id": "yvette-55-anzengruber", "from": "Frau Yvette (55)", "date": "2026-01-27", "summary": "1050 Wien, Anzengrubergasse 4/4"},
+    {"id": "anna-s-25", "from": "Anna S. (25)", "date": "2026-01-26", "summary": "Ongoing conversation"},
+    {"id": "petra-29", "from": "Petra (29)", "date": "2026-01-22", "summary": "1180 Wien, 54m2, €1150/month, willhaben link"},
+    {"id": "alex-38", "from": "Alex (38)", "date": "2026-01-23", "summary": "Ongoing conversation"},
+    {"id": "helena-g-32", "from": "Helena G. (32)", "date": "2025-05-01", "summary": "Innsbruck, ab 05.07 - too late"},
+    {"id": "michael-34", "from": "Michael (34)", "date": "2025-04-22", "summary": "1160 Wien, ab Mai - too late"},
+    {"id": "martin-n-29", "from": "Martin N. (29)", "date": "2025-04-17", "summary": "15 Mai - 31 Juli - too late"},
+    {"id": "b-fink-71", "from": "B. Fink (71)", "date": "2025-04-14", "summary": "Shared with host"},
+    {"id": "vanessa", "from": "Vanessa", "date": "2025-04-13", "summary": "Wals (Salzburg), möbliert"},
+    {"id": "sabrina-35", "from": "Sabrina (35)", "date": "2025-04-09", "summary": "Hallein, 2 rooms"},
+    {"id": "ronny-44", "from": "Ronny (44)", "date": "2025-04-06", "summary": "Garden apartment, waiting for plans"}
+  ],
   "sentToWhatsApp": []
 }

@@ -44,10 +44,11 @@ Logged-in accounts available in the remote browser:
 
 | Service | Account | Purpose |
 |---------|---------|---------|
-| **WG-Gesucht** | (logged in) | Apartment search |
+| **Google** | lovdo.org@gmail.com | General / linked services |
+| **Twitter/X** | lovdo.org@gmail.com | Social media |
+| **TikTok** | @lovdo.org | New account (1 follower) |
+| **WG-Gesucht** | cata.waack@gmail.com | Apartment search |
 | **Instagram** | veddelholzer.com | Client management |
-| **Twitter/X** | (logged in) | Social media |
-| **TikTok** | rivoara | Beauty/skincare brand warmup |
 
 ### WG-Gesucht Context
 - Looking for apartment in **Vienna**
@@ -65,18 +66,15 @@ Logged-in accounts available in the remote browser:
 
 ## noVNC (Remote Browser)
 
-Access the server's browser GUI remotely.
+**Access:** SSH tunnel only (localhost:6090). Public access disabled.
 
-- **URL:** https://remote.waack.dev/vnc.html (preferred)
-- **Fallback:** http://46.224.216.49:6090/vnc.html
-- **Username:** clawd
-- **Password:** C+G/jnLJGTVe1+xV
-
-**Start/restart:**
 ```bash
-/root/start-novnc.sh
-DISPLAY=:99 google-chrome --no-sandbox https://example.com &
+# From local machine:
+ssh -L 6090:127.0.0.1:6090 root@46.224.216.49
+# Then open: http://localhost:6090/vnc.html
 ```
+
+Credentials in 1Password, NOT here. Never store secrets in workspace files.
 
 ---
 

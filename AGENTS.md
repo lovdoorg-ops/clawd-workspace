@@ -48,14 +48,6 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 cd /root/clawd && git add -A && git commit -m "description" && git push
 ```
 
-- This is NOT optional
-- Don't batch changes hoping to commit later — commit NOW
-- Small, frequent commits > large batches
-- If you forget, you lose work when context resets
-- Your workspace IS your memory; git IS your backup
-
-**Commit message style:** Brief, descriptive. What changed, not why you exist.
-
 ## Safety
 
 - Don't exfiltrate private data. Ever.

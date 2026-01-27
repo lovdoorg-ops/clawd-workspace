@@ -1,0 +1,22 @@
+{
+  "wg-gesucht-inbox": {
+    "lastExecuted": "2026-01-27T11:10:00Z",
+    "lastResult": "no new messages, Anna replied 13h ago",
+    "schedule": "every 3h"
+  },
+  "wg-gesucht-search": {
+    "lastExecuted": null,
+    "lastResult": null,
+    "schedule": "14:00 UTC daily"
+  },
+  "instagram-veddelholzer-daily": {
+    "lastExecuted": "2026-01-27T11:12:00Z",
+    "lastResult": "found Bettina collab proposal (150€/mo), NALA inquiry",
+    "schedule": "10:00 UTC daily"
+  },
+  "tiktok-rivoara-warmup": {
+    "lastExecuted": "2026-01-27T11:06:00Z",
+    "lastResult": "added 2 prospects (laracallon, lisamateaa)",
+    "schedule": "11:00 UTC daily"
+  }
+}

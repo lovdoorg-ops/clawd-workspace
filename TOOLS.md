@@ -8,7 +8,8 @@ Skills define *how* tools work. This file is for *your* specifics — the stuff 
 
 | Service | CLI | Account | Status |
 |---------|-----|---------|--------|
-| **GitHub** | `gh` | C4T4 | ✅ Ready |
+| **GitHub** | `gh` | lovdoorg-ops (Clawd's account) | ✅ Ready |
+| **GitHub** | — | C4T4 (Cata, collaborator) | ✅ Invited |
 | **Railway** | `railway` | cata.waack@gmail.com | ✅ Ready |
 | **Vercel** | `vercel` | c4t4 | ✅ Ready |
 | **WhatsApp** | Clawdbot | +1 786 727 6503 | ✅ Linked |
@@ -45,6 +46,7 @@ Logged-in accounts available in the remote browser:
 | Service | Account | Purpose |
 |---------|---------|---------|
 | **Google** | lovdo.org@gmail.com | General / linked services |
+| **GitHub** | lovdoorg-ops | Clawd's GitHub account |
 | **Twitter/X** | lovdo.org@gmail.com | Social media |
 | **TikTok** | @lovdo.org | New account (1 follower) |
 | **WG-Gesucht** | cata.waack@gmail.com | Apartment search |

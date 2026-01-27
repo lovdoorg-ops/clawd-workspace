@@ -41,6 +41,21 @@ Capture what matters. Decisions, context, things to remember. Skip the secrets u
 - When you make a mistake → document it so future-you doesn't repeat it
 - **Text > Brain** 📝
 
+### 🔄 Git Commit After Every Change — MANDATORY
+**Every time you modify a file, commit and push immediately.**
+
+```bash
+cd /root/clawd && git add -A && git commit -m "description" && git push
+```
+
+- This is NOT optional
+- Don't batch changes hoping to commit later — commit NOW
+- Small, frequent commits > large batches
+- If you forget, you lose work when context resets
+- Your workspace IS your memory; git IS your backup
+
+**Commit message style:** Brief, descriptive. What changed, not why you exist.
+
 ## Safety
 
 - Don't exfiltrate private data. Ever.

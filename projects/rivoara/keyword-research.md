@@ -85,6 +85,13 @@ From gutefrage.net user (mother of 2 girls with long hair):
 - "Taugen Duschfilter etwas?"
 - "Schädigt verkalktes Wasser das Haar?"
 
+### Frustration Searches (Opportunity!)
+People searching these are READY to buy a better solution:
+- "Duschfilter bringt nichts"
+- "Duschfilter kein Unterschied"
+- "Haare waschen destilliertes Wasser" (desperate measure)
+- "Haare waschen Wasser aus dem Markt" (bottled water workaround)
+
 ---
 
 ## YouTube Content (High View Counts)
@@ -154,12 +161,19 @@ From gutefrage.net user (mother of 2 girls with long hair):
 | **AGUALEVE** | €16.99 | 4.0⭐ | 563 | Made in EU, 500+ bought/month |
 | **Tylola MAX** | €16.81 | 4.0⭐ | 39 | NSF42 certified |
 
-**Price Range:** €16-25 for most competitors
+**Price Range:** €16-25 for budget options
 
-### Rivoara vs Competitors
-- **Rivoara: €69** = 3-4x more expensive than budget options
-- Must justify premium with: better filtration, durability, aesthetic, results
-- Opportunity: "Cheap filters don't work" messaging backed by user complaints
+### Premium Competitor
+| Product | Price | Rating | Reviews | Notes |
+|---------|-------|--------|---------|-------|
+| **PICKI NIKI** | €99 (was €139) | 4.9⭐ | 634 | Tom Hannemann tested this on TikTok |
+
+### Rivoara Positioning
+- **Budget filters (€16-25):** "Cheap but don't work" — user complaints confirm
+- **PICKI NIKI (€99):** Premium competitor, expensive
+- **Rivoara (€69):** Sweet spot — premium quality, better value than PICKI NIKI
+
+**Key angle:** "Billige Filter bringen nichts — aber du musst auch keine €99+ ausgeben."
 
 ### Review Language from Amazon
 Positive:

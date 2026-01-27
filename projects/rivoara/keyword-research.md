@@ -204,6 +204,34 @@ Negative:
 
 ---
 
+## German City Water Hardness Data
+
+| City | Hardness (°dH) | Category |
+|------|----------------|----------|
+| **Berlin** | 17.8-23.9 | 🔴 VERY HARD (#1) |
+| **Frankfurt** | 8.5-19.7 | 🟠 Hard |
+| **München** | 14.9-19.0 | 🟠 Hard |
+| **Köln** | 15.2 | 🟠 Hard |
+| **Leipzig** | 13.5 | 🟡 Medium-Hard |
+| **Hannover** | 11.8 | 🟡 Medium |
+| **Hamburg** | 7.0 | 🟢 Soft |
+
+*Scale: 0-8.4 = soft, 8.4-14 = medium, >14 = hard*
+
+### Berlin-Specific User Story
+From gutefrage.net:
+> "Ich komme aus Baden-Württemberg und hatte nie Haarausfall, aber seitdem ich in Berlin lebe (1 Jahr) habe ich starken Haarausfall... Seit einigen Wochen benutze ich nur noch Wasser aus dem Markt."
+
+**Translation:** Moved from Baden-Württemberg → Berlin = severe hair loss. Now washes hair with BOTTLED WATER from the supermarket.
+
+### City-Specific Content Opportunity
+- Berlin = #1 target market (hardest water + largest city)
+- Frankfurt, München, Köln = secondary targets
+- "Neu in Berlin?" angle for movers/expats
+- Hamburg residents won't have this problem
+
+---
+
 ## Sources
 - gutefrage.net discussions
 - TikTok search + AI keywords

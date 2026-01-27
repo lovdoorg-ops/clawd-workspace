@@ -32,6 +32,8 @@ Potential TikTok creators for product seeding — shower filter in exchange for 
 | @ellendieerdbeere | https://www.tiktok.com/@ellendieerdbeere | GRWM skincare | German, aesthetic "Skincare Girly" vibes | 2026-01-26 |
 | @stellaaelena | https://www.tiktok.com/@stellaaelena | Skincare | German, has IG: stellaarhg | 2026-01-26 |
 | @miadarlingxo | https://www.tiktok.com/@miadarlingxo | Skincare tips | German, "miapearl" (879 likes) | 2026-01-26 |
+| @laracallon | https://www.tiktok.com/@laracallon | Body care/skincare | German, body cream content (~4K likes), aesthetic | 2026-01-27 |
+| @lisamateaa | https://www.tiktok.com/@lisamateaa | GRWM skincare | German, skincare routine vlogs (~5K likes) | 2026-01-27 |
 
 ## B-Tier Prospects
 

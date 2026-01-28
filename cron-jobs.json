@@ -2,6 +2,7 @@
   "jobs": [
     {
       "id": "07898ab0-1155-4942-aef1-779c1be5802d",
+      "agentId": "main",
       "name": "wg-gesucht-inbox",
       "enabled": true,
       "schedule": {
@@ -17,6 +18,7 @@
     },
     {
       "id": "c1faf666-5c3e-4cd0-864f-de1b801ed2e5",
+      "agentId": "main",
       "name": "tiktok-rivoara-warmup",
       "enabled": true,
       "schedule": {
@@ -32,6 +34,7 @@
     },
     {
       "id": "6fe85261-ace4-434a-8590-166dc025f7e3",
+      "agentId": "main",
       "name": "wg-gesucht-search",
       "enabled": true,
       "schedule": {
@@ -47,6 +50,7 @@
     },
     {
       "id": "854a9b29-d0dd-4ac2-9830-bda9fafa0f45",
+      "agentId": "main",
       "name": "tiktok-rivoara-trends",
       "enabled": true,
       "schedule": {
@@ -57,26 +61,12 @@
       "wakeMode": "next-heartbeat",
       "payload": {
         "kind": "agentTurn",
-        "message": "JOB: tiktok-rivoara-trends\n\nBrowser: Use the VNC browser on port 9222 (controlUrl: http://127.0.0.1:9222). Stay on TikTok only.\n\n---\n\n**MISSION:** Find content opportunities for Rivoara (premium shower filter, Germany).\n\n**METHOD:** Let TikTok guide you.\n\n1. OBSERVE — German beauty/skincare/hair space. What's real right now?\n2. LISTEN — Comments. That's where pain lives.\n3. CONNECT — Cross domains. Link back to water quality.\n\n**TOOLS:**\n- Subtle desire — what are they wishing for between the lines?\n- Nuanced connection — indirect links, not obvious ones\n- Comment gold — actual quotes that reveal frustration or longing\n\n**OUTPUT:**\n- What you found + real data (views, comments)\n- The connection you mapped\n- The Rivoara opportunity\n- Full TikTok URLs\n\n**RULES:**\n- Max 2 trends/day\n- Only genuine opportunities\n- No forced fits\n- Nothing found = send nothing\n\nDeliver to: WhatsApp 120363422731792463@g.us\n\nAfter: Update /root/clawd/projects/rivoara/trends-history.json"
-      }
-    },
-    {
-      "id": "d838b2aa-57d5-43ea-b73d-d78020a91a85",
-      "name": "valentines-nudge-1",
-      "enabled": true,
-      "schedule": {
-        "kind": "cron",
-        "expr": "0 22 28 1 *"
-      },
-      "sessionTarget": "main",
-      "wakeMode": "next-heartbeat",
-      "payload": {
-        "kind": "systemEvent",
-        "text": "Random thought — Valentine's Day is a couple weeks away. Might want to start thinking about where to take Your Amazonic Queen for dinner."
+        "message": "JOB: tiktok-rivoara-trends\n\nBrowser: Use the VNC browser on port 9222 (controlUrl: http://127.0.0.1:9222). Stay on TikTok only.\n\n---\n\n**MISSION:** Find content opportunities for Rivoara (premium shower filter, Germany).\n\n**METHOD:** Let TikTok guide you.\n\n1. OBSERVE — German beauty/skincare/hair space. What's real right now?\n2. LISTEN — Comments. That's where pain lives. **Scroll deep, check 20+ comments minimum, not just top 5.**\n3. CONNECT — Cross domains. Link back to water quality.\n\n**TOOLS:**\n- Subtle desire — what are they wishing for between the lines?\n- Nuanced connection — indirect links, not obvious ones\n- Comment gold — actual quotes that reveal frustration or longing\n\n**OUTPUT FORMAT:**\n- The video (creator + hook + URL)\n- Comment gold (direct quotes with translations)\n- The connection you mapped\n- The Rivoara opportunity\n- NO stats (likes/views/etc) — skip these\n\n**RULES:**\n- Max 2 trends/day\n- Only genuine opportunities\n- No forced fits\n- Nothing found = send nothing\n\nDeliver to: WhatsApp 120363422731792463@g.us\n\n**ARCHIVAL (mandatory):**\n1. Update `/root/clawd/projects/rivoara/trends-history.json` (index)\n2. Save the EXACT WhatsApp message to `/root/clawd/projects/rivoara/trend-reports/YYYY-MM-DD.md` (WhatsApp = source of truth)\n3. Git commit & push after saving"
       }
     },
     {
       "id": "d62d436c-8a20-466d-b524-875c997a6168",
+      "agentId": "main",
       "name": "valentines-nudge-2",
       "enabled": true,
       "schedule": {
@@ -92,6 +82,7 @@
     },
     {
       "id": "9b907b45-80fe-4387-b002-31e290491eae",
+      "agentId": "main",
       "name": "valentines-nudge-3",
       "enabled": true,
       "schedule": {
@@ -107,6 +98,7 @@
     },
     {
       "id": "809c6236-dfa9-459b-ad8c-bffa59920bdc",
+      "agentId": "main",
       "name": "valentines-nudge-4",
       "enabled": true,
       "schedule": {
@@ -122,6 +114,7 @@
     },
     {
       "id": "52acc84b-d769-4e50-9d3f-3bec7114d145",
+      "agentId": "main",
       "name": "valentines-nudge-5",
       "enabled": true,
       "schedule": {
@@ -137,6 +130,7 @@
     },
     {
       "id": "6d25630b-ebfe-435c-b1f1-91293f680c74",
+      "agentId": "main",
       "name": "valentines-reminder-cata",
       "enabled": true,
       "schedule": {
@@ -148,6 +142,22 @@
       "payload": {
         "kind": "systemEvent",
         "text": "Valentine's Day is in 2 DAYS. If you haven't booked a dinner reservation for Your Amazonic Queen yet, do it NOW. She wants to eat out — that's her thing. Also: groom yourself. She likes eating but not eating hair. Don't mess this up."
+      }
+    },
+    {
+      "id": "d838b2aa-57d5-43ea-b73d-d78020a91a85",
+      "agentId": "main",
+      "name": "valentines-nudge-1",
+      "enabled": true,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 22 28 1 *"
+      },
+      "sessionTarget": "main",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "systemEvent",
+        "text": "Random thought — Valentine's Day is a couple weeks away. Might want to start thinking about where to take Your Amazonic Queen for dinner."
       }
     }
   ]

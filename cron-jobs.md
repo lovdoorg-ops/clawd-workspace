@@ -55,7 +55,9 @@ Active scheduled tasks managed by Clawdbot. All task jobs run in **isolated sess
 - **Schedule:** `0 15 * * *` (15:00 UTC daily)
 - **Session:** isolated
 - **Target:** WhatsApp group g-forelox-cult (`120363422731792463@g.us`)
-- **Task:** Find viral BEAUTY trends that Rivoara could adapt for shower filter content. Only report S-tier trends (viral in Germany, natural Rivoara fit, fresh). Send NOTHING if no S-tier found.
+- **Browser:** profile "clawd" (port 9222)
+- **Approach:** Systems thinking — map causal loops between symptoms (hair damage, skin issues, product frustration, relocation) and water quality. Hunt for **nuanced connections** and **subtle desires** in comments, not direct shower filter content.
+- **Output:** Max 2 trends/day. Only report genuine creative opportunities with real Rivoara angles. Send NOTHING if no nuanced connection found.
 
 ### Valentine's Nudges
 - **Session:** main (personal reminders)

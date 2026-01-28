@@ -1,1 +1,250 @@
-/root/.clawdbot/cron/jobs.json
+{
+  "version": 1,
+  "jobs": [
+    {
+      "id": "07898ab0-1155-4942-aef1-779c1be5802d",
+      "agentId": "main",
+      "name": "wg-gesucht-inbox",
+      "enabled": true,
+      "createdAtMs": 1769428777503,
+      "updatedAtMs": 1769634000002,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 */3 * * *"
+      },
+      "sessionTarget": "main",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "systemEvent",
+        "text": "🔄 CRON TASK — Use queue system!\n\n1. Add this task to /root/clawd/cron-queue.json with status 'pending'\n2. Spawn a sub-agent with sessions_spawn to handle it\n3. Reply NO_REPLY (don't block main session)\n\n---\nJOB: wg-gesucht-inbox\nTASK: Check WG-Gesucht INBOX + UPDATE POST. Use browser (port 9222).\n\nSteps:\n1) CHECK INBOX: Go to https://www.wg-gesucht.de/nachrichten.html - check for new messages. Before reporting, read /root/clawd/projects/wg-gesucht/history.json to see what's already been sent. Only report NEW/unread messages.\n\n2) BUMP POST: Go to my active listing and click 'Gesuch aktualisieren' (update request) to push it back to the top of search results.\n\nAfter checking, update history.json with seen message IDs. Send any new messages/updates to WhatsApp group 120363213979130244@g.us (g-cata-dani).\n\nContext: Vienna apartment, move-in March 15 - April 1, 2026.\n\nWhen done: Update queue file status to 'completed' with result summary."
+      },
+      "state": {
+        "nextRunAtMs": 1769644800000,
+        "lastRunAtMs": 1769634000002,
+        "lastStatus": "ok",
+        "lastDurationMs": 6
+      }
+    },
+    {
+      "id": "941d4433-1885-45da-84e9-016dc5c286e1",
+      "agentId": "main",
+      "name": "instagram-veddelholzer-daily",
+      "enabled": false,
+      "createdAtMs": 1769428783467,
+      "updatedAtMs": 1769627729786,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 10 * * *"
+      },
+      "sessionTarget": "main",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "systemEvent",
+        "text": "🔄 CRON TASK — Use queue system!\n\n1. Add this task to /root/clawd/cron-queue.json with status 'pending'\n2. Spawn a sub-agent with sessions_spawn to handle it\n3. Reply NO_REPLY (don't block main session)\n\n---\nJOB: instagram-veddelholzer-daily\nTASK: Check Instagram DMs for veddelholzer.com. Use browser (port 9222) to check https://www.instagram.com/direct/inbox/. Before reporting, read /root/clawd/projects/instagram-veddelholzer/history.json - only report NEW messages/requests. Look for collaboration inquiries, people interested in product packages for content. After checking, update history.json with seen conversation IDs. Send summary to WhatsApp group 120363213979130244@g.us (g-cata-dani).\n\nWhen done: Update queue file status to 'completed' with result summary."
+      },
+      "state": {
+        "lastRunAtMs": 1769594400000,
+        "lastStatus": "ok",
+        "lastDurationMs": 9
+      }
+    },
+    {
+      "id": "6fe85261-ace4-434a-8590-166dc025f7e3",
+      "agentId": "main",
+      "name": "wg-gesucht-search",
+      "enabled": true,
+      "createdAtMs": 1769429517460,
+      "updatedAtMs": 1769627587995,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 14 * * *"
+      },
+      "sessionTarget": "main",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "systemEvent",
+        "text": "🔄 CRON TASK — Use queue system!\n\n1. Add this task to /root/clawd/cron-queue.json with status 'pending'\n2. Spawn a sub-agent with sessions_spawn to handle it\n3. Reply NO_REPLY (don't block main session)\n\n---\nJOB: wg-gesucht-search\nTASK: SEARCH for new apartments on WG-Gesucht Vienna. Use browser (port 9222) to search https://www.wg-gesucht.de/wohnungen-in-Wien.96.2.1.0.html (Zwischenmiete). Before reporting, read /root/clawd/projects/wg-gesucht/history.json - only report NEW listings not in seenListings. Check availability dates match March 15 - April 1, 2026. After checking, update history.json with new listing IDs. Send promising listings to WhatsApp group 120363213979130244@g.us (g-cata-dani).\n\nWhen done: Update queue file status to 'completed' with result summary."
+      },
+      "state": {
+        "nextRunAtMs": 1769695200000,
+        "lastRunAtMs": 1769608800001,
+        "lastStatus": "ok",
+        "lastDurationMs": 5
+      }
+    },
+    {
+      "id": "c1faf666-5c3e-4cd0-864f-de1b801ed2e5",
+      "agentId": "main",
+      "name": "tiktok-rivoara-warmup",
+      "enabled": true,
+      "createdAtMs": 1769432354751,
+      "updatedAtMs": 1769633138634,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 11 * * *"
+      },
+      "sessionTarget": "main",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "systemEvent",
+        "text": "🔄 CRON TASK — Use queue system!\n\n1. Add this task to /root/clawd/cron-queue.json with status 'pending'\n2. Spawn a sub-agent with sessions_spawn to handle it\n3. Reply NO_REPLY (don't block main session)\n\n---\nJOB: tiktok-rivoara-warmup\nTASK: TikTok session for Rivoara (Germany). Use browser (port 9222) to open https://www.tiktok.com.\n\n⚠️ TIKTOK ONLY — All research happens ON TikTok. No Google searches, no web articles, no Amazon. Stay in the app.\n\nTasks:\n1) WARMUP: Scroll For You page 10-15 min, watch videos fully, like good content, follow 1-2 German beauty creators\n2) SCOUT TRENDS: Find viral formats, hooks, sounds FOR Rivoara content (shower filters, skincare, hair care) — by watching what's performing on TikTok\n3) SCOUT INFLUENCERS: Find potential product seeding candidates ON TikTok. Key criteria:\n   - Aesthetic young women with GOOD HAIR AND SKIN\n   - Beauty-focused content (skincare, haircare, routines, GRWM)\n   - Quality content potential (matters more than followers)\n   - SMALLER ACCOUNTS PREFERRED (500-5k ideal) — more likely to accept free product, won't ask for payment\n   - 5k+ often expect money, skip unless exceptional\n   - German/DACH preferred\n\nFor promising candidates, add to /root/clawd/projects/rivoara/influencer-prospects.md with tier (S/A/B), handle, FULL URL (https://www.tiktok.com/@handle), approx followers, niche, and why they're a good fit.\n\nSearch ON TIKTOK: #germanbeauty #skincare #Duschfilter #Hautpflege #Haarpflege #GRWM #selfcare #bathroomroutine\n\nUpdate /root/clawd/projects/tiktok-rivoara/history.json after session.\n\nIf you find good influencer prospects, send summary to WhatsApp group 120363422731792463@g.us (g-forelox-cult).\n📎 IMPORTANT: In WhatsApp messages, always include FULL CLICKABLE URLs (https://www.tiktok.com/@handle) — not just @handle text.\n\nWhen done: Update queue file status to 'completed' with result summary."
+      },
+      "state": {
+        "nextRunAtMs": 1769684400000,
+        "lastRunAtMs": 1769627836999,
+        "lastStatus": "ok",
+        "lastDurationMs": 9
+      }
+    },
+    {
+      "id": "854a9b29-d0dd-4ac2-9830-bda9fafa0f45",
+      "agentId": "main",
+      "name": "tiktok-rivoara-trends",
+      "enabled": true,
+      "createdAtMs": 1769554390712,
+      "updatedAtMs": 1769634014750,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 15 * * *"
+      },
+      "sessionTarget": "main",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "systemEvent",
+        "text": "🔄 CRON TASK — Use queue system!\n\n1. Add this task to /root/clawd/cron-queue.json with status 'pending'\n2. Spawn a sub-agent with sessions_spawn to handle it\n3. Reply NO_REPLY (don't block main session)\n\n---\nJOB: tiktok-rivoara-trends\nTASK: Find viral BEAUTY trends that Rivoara could adapt for shower filter content. Use browser (port 9222).\n\n⚠️ TIKTOK ONLY — All research happens ON TikTok. No Google, no web searches. Stay in the app.\n\nBEFORE STARTING: Read /root/clawd/projects/rivoara/trends-history.json — don't repeat anything already reported.\n\n🎯 THE GOAL: Find trending beauty content/formats, then figure out how Rivoara could adapt them.\nDON'T look for shower filter content (it barely exists). DO look for viral beauty trends we can ride.\n\nSEARCH ON TIKTOK (German beauty space):\n- Explore/Discover page (Germany)\n- #hautpflege #haarpflege #skincare #haircare #GRWM #beautytok\n- Hair transformation, glow up, before/after content\n- Skincare routines, \"was ich bereue\" (regrets), \"game changer\" content\n- Viral sounds in beauty niche\n- Comments: what are people asking about? what problems do they mention?\n\nFOR EACH PROMISING TREND, THINK:\n- What's the format/hook that makes it work?\n- How could Rivoara adapt this for shower filter content?\n- What angle connects it naturally? (hair health, skin clarity, water quality, etc.)\n\nS-TIER CRITERIA:\n1. Actually viral in Germany (high engagement, trending)\n2. Rivoara can ADAPT it (not forced, natural connection possible)\n3. Fits premium Rivoara aesthetic\n4. Fresh — not in trends-history.json\n\nOUTPUT (only if S-tier found):\n- The trend/format + example videos\n- Why it's viral (the hook)\n- HOW Rivoara could execute it (specific idea)\n- Trending sound if applicable\n\nMAX 1 trend per day. If nothing S-tier: SEND NOTHING. No 'nothing found' message.\n\nSend to WhatsApp 120363422731792463@g.us (g-forelox-cult) ONLY if you have something worth sharing.\n📎 Include full TikTok URLs in WhatsApp messages.\n\nAFTER: Update trends-history.json with reported trend (if any).\n\nWhen done: Update queue file status to 'completed' with result summary."
+      },
+      "state": {
+        "nextRunAtMs": 1769698800000,
+        "lastRunAtMs": 1769633594734,
+        "lastStatus": "ok",
+        "lastDurationMs": 6
+      }
+    },
+    {
+      "id": "6d25630b-ebfe-435c-b1f1-91293f680c74",
+      "agentId": "main",
+      "name": "valentines-reminder-cata",
+      "enabled": true,
+      "createdAtMs": 1769608388228,
+      "updatedAtMs": 1769608652442,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 10 12 2 *"
+      },
+      "sessionTarget": "main",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "systemEvent",
+        "text": "Valentine's Day is in 2 DAYS. If you haven't booked a dinner reservation for Your Amazonic Queen yet, do it NOW. She wants to eat out — that's her thing. Also: groom yourself. She likes eating but not eating hair. Don't mess this up."
+      },
+      "state": {
+        "nextRunAtMs": 1770890400000
+      }
+    },
+    {
+      "id": "d838b2aa-57d5-43ea-b73d-d78020a91a85",
+      "agentId": "main",
+      "name": "valentines-nudge-1",
+      "enabled": true,
+      "createdAtMs": 1769608436678,
+      "updatedAtMs": 1769608600768,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 22 28 1 *"
+      },
+      "sessionTarget": "main",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "systemEvent",
+        "text": "Random thought — Valentine's Day is a couple weeks away. Might want to start thinking about where to take Your Amazonic Queen for dinner."
+      },
+      "state": {
+        "nextRunAtMs": 1769637600000
+      }
+    },
+    {
+      "id": "d62d436c-8a20-466d-b524-875c997a6168",
+      "agentId": "main",
+      "name": "valentines-nudge-2",
+      "enabled": true,
+      "createdAtMs": 1769608436696,
+      "updatedAtMs": 1769608600785,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 12 31 1 *"
+      },
+      "sessionTarget": "main",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "systemEvent",
+        "text": "Valentine's is two weeks out. Have you thought about where to take Your Amazonic Queen for dinner? She loves eating out — find somewhere nice."
+      },
+      "state": {
+        "nextRunAtMs": 1769860800000
+      }
+    },
+    {
+      "id": "9b907b45-80fe-4387-b002-31e290491eae",
+      "agentId": "main",
+      "name": "valentines-nudge-3",
+      "enabled": true,
+      "createdAtMs": 1769608436711,
+      "updatedAtMs": 1769608600802,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 12 3 2 *"
+      },
+      "sessionTarget": "main",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "systemEvent",
+        "text": "Friendly reminder — Feb 14 is coming. Good restaurants book up fast for Valentine's. Make a reservation for Your Amazonic Queen now."
+      },
+      "state": {
+        "nextRunAtMs": 1770120000000
+      }
+    },
+    {
+      "id": "809c6236-dfa9-459b-ad8c-bffa59920bdc",
+      "agentId": "main",
+      "name": "valentines-nudge-4",
+      "enabled": true,
+      "createdAtMs": 1769608436727,
+      "updatedAtMs": 1769608600819,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 12 7 2 *"
+      },
+      "sessionTarget": "main",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "systemEvent",
+        "text": "One week until Valentine's Day. Got a dinner reservation for Your Amazonic Queen yet? Don't leave it to the last minute."
+      },
+      "state": {
+        "nextRunAtMs": 1770465600000
+      }
+    },
+    {
+      "id": "52acc84b-d769-4e50-9d3f-3bec7114d145",
+      "agentId": "main",
+      "name": "valentines-nudge-5",
+      "enabled": true,
+      "createdAtMs": 1769608436743,
+      "updatedAtMs": 1769608600840,
+      "schedule": {
+        "kind": "cron",
+        "expr": "0 12 10 2 *"
+      },
+      "sessionTarget": "main",
+      "wakeMode": "next-heartbeat",
+      "payload": {
+        "kind": "systemEvent",
+        "text": "Valentine's Day is Saturday. If you haven't booked dinner for Your Amazonic Queen, do it TODAY. She wants to eat out, not get objects."
+      },
+      "state": {
+        "nextRunAtMs": 1770724800000
+      }
+    }
+  ]
+}

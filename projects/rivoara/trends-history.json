@@ -1,6 +1,25 @@
 {
-  "reportedTrends": [],
-  "lastCheck": "2026-01-28T21:35:00Z",
-  "checkNotes": "Third check today (extensive search). Explored: Beauty explore page DE, #duschroutine (5K-20K views), global shower routine trends (100K-900K+ globally but not German), hair transformations (50K-600K+ globally, salon-based), scalp care DE (10K-47K), trockene Haut content (<5K), glowup 2026 DE (<1K). Key finding: Global '6 step shower routine' format is massive but German adoption is limited. German #duschroutine content exists but not viral (max 20K). All shower routine content focuses on body products + scent layering, not water quality. No natural shower filter angle. No S-tier trend found.",
+  "reportedTrends": [
+    {
+      "date": "2026-01-28",
+      "trend": "Wasserhärte & Haarstruktur (Water Hardness & Hair Structure)",
+      "creator": "@.the.beautiful.people",
+      "url": "https://www.tiktok.com/@.the.beautiful.people/video/7525492044123426070",
+      "stats": {
+        "likes": "13.2K",
+        "comments": 222,
+        "saves": 2693,
+        "shares": 560
+      },
+      "why": "Educational content directly about water hardness affecting hair. Creator testing competitor (Pici Nici). Comments show DIY pain (vinegar, boiled water) and regional awareness (North Germany). Strong save ratio indicates intent to act.",
+      "supporting": {
+        "creator": "@assiariad",
+        "url": "https://www.tiktok.com/@assiariad/video/7518404637146287392",
+        "note": "Berlin creator connected straw-like hair ends to hard water. Personal story format."
+      }
+    }
+  ],
+  "lastCheck": "2026-01-28T21:55:00Z",
+  "checkNotes": "Found direct water hardness content with strong engagement. Creator @.the.beautiful.people doing educational series on the topic and testing shower filter competitors. Comment section reveals DIY solution seeking (vinegar, boiled water) and regional pain (North Germany hard water).",
   "notes": "Track reported trends to avoid repeating. Each entry: {date, trend, sound, why}"
 }

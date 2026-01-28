@@ -18,9 +18,9 @@ Potential TikTok creators for product seeding — shower filter in exchange for 
 
 ## S-Tier Prospects
 
-| Handle | Followers | Niche | Notes | Added |
-|--------|-----------|-------|-------|-------|
-| @soulreisen | ~small | Travel/backpacking | German (Melina), ALREADY promotes Duschfilter for travel! Perfect warm lead. Has linktree with must-haves. | 2026-01-28 |
+| Handle | URL | Followers | Niche | Notes | Added |
+|--------|-----|-----------|-------|-------|-------|
+| @soulreisen | https://www.tiktok.com/@soulreisen | ~small | Travel/backpacking | German (Melina), ALREADY promotes Duschfilter for travel! Perfect warm lead. Has linktree with must-haves. | 2026-01-28 |
 
 ## A-Tier Prospects
 

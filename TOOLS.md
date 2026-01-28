@@ -82,14 +82,14 @@ Credentials in 1Password, NOT here. Never store secrets in workspace files.
 
 ## Cron Jobs
 
-See **cron-jobs.md** for full details.
+See **cron-jobs.md** for full details. All task jobs run in **isolated sessions**.
 
-| Job | Schedule | Target |
-|-----|----------|--------|
-| wg-gesucht-inbox | Every 3h | g-cata-dani |
-| instagram-veddelholzer-daily | 10:00 UTC | g-cata-dani |
-| tiktok-rivoara-warmup | 11:00 UTC | g-forelox-cult |
-| wg-gesucht-search | 14:00 UTC | g-cata-dani |
+| Job | Schedule | Session | Target |
+|-----|----------|---------|--------|
+| wg-gesucht-inbox | Every 3h | isolated | g-cata-dani |
+| tiktok-rivoara-warmup | 11:00 UTC | isolated | g-forelox-cult |
+| wg-gesucht-search | 14:00 UTC | isolated | g-cata-dani |
+| tiktok-rivoara-trends | 15:00 UTC | isolated | g-forelox-cult |
 
 ### WhatsApp Groups
 - **g-cata-dani:** `120363213979130244@g.us`

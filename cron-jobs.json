@@ -2,7 +2,6 @@
   "jobs": [
     {
       "id": "07898ab0-1155-4942-aef1-779c1be5802d",
-      "agentId": "main",
       "name": "wg-gesucht-inbox",
       "enabled": true,
       "schedule": {
@@ -18,7 +17,6 @@
     },
     {
       "id": "c1faf666-5c3e-4cd0-864f-de1b801ed2e5",
-      "agentId": "main",
       "name": "tiktok-rivoara-warmup",
       "enabled": true,
       "schedule": {
@@ -34,7 +32,6 @@
     },
     {
       "id": "6fe85261-ace4-434a-8590-166dc025f7e3",
-      "agentId": "main",
       "name": "wg-gesucht-search",
       "enabled": true,
       "schedule": {
@@ -50,7 +47,6 @@
     },
     {
       "id": "854a9b29-d0dd-4ac2-9830-bda9fafa0f45",
-      "agentId": "main",
       "name": "tiktok-rivoara-trends",
       "enabled": true,
       "schedule": {
@@ -66,7 +62,6 @@
     },
     {
       "id": "d62d436c-8a20-466d-b524-875c997a6168",
-      "agentId": "main",
       "name": "valentines-nudge-2",
       "enabled": true,
       "schedule": {
@@ -82,7 +77,6 @@
     },
     {
       "id": "9b907b45-80fe-4387-b002-31e290491eae",
-      "agentId": "main",
       "name": "valentines-nudge-3",
       "enabled": true,
       "schedule": {
@@ -98,7 +92,6 @@
     },
     {
       "id": "809c6236-dfa9-459b-ad8c-bffa59920bdc",
-      "agentId": "main",
       "name": "valentines-nudge-4",
       "enabled": true,
       "schedule": {
@@ -114,7 +107,6 @@
     },
     {
       "id": "52acc84b-d769-4e50-9d3f-3bec7114d145",
-      "agentId": "main",
       "name": "valentines-nudge-5",
       "enabled": true,
       "schedule": {
@@ -130,7 +122,6 @@
     },
     {
       "id": "6d25630b-ebfe-435c-b1f1-91293f680c74",
-      "agentId": "main",
       "name": "valentines-reminder-cata",
       "enabled": true,
       "schedule": {
@@ -146,7 +137,6 @@
     },
     {
       "id": "d838b2aa-57d5-43ea-b73d-d78020a91a85",
-      "agentId": "main",
       "name": "valentines-nudge-1",
       "enabled": true,
       "schedule": {

@@ -6,6 +6,7 @@ Active scheduled tasks managed by Clawdbot. All task jobs run in **isolated sess
 
 | Schedule | Job | Session | Target Group |
 |----------|-----|---------|--------------|
+| 00:05 | daily-memory-init | isolated | — |
 | Every 3h | wg-gesucht-inbox | isolated | g-cata-dani |
 | 11:00 | tiktok-rivoara-warmup | isolated | g-forelox-cult |
 | 14:00 | wg-gesucht-search | isolated | g-cata-dani |
@@ -15,6 +16,12 @@ Active scheduled tasks managed by Clawdbot. All task jobs run in **isolated sess
 ---
 
 ## Job Details
+
+### daily-memory-init
+- **ID:** `4d123f89-1907-4f20-8402-4bc506b41472`
+- **Schedule:** `5 0 * * *` (00:05 UTC daily)
+- **Session:** isolated
+- **Task:** Create `/root/clawd/memory/YYYY-MM-DD.md` if it doesn't exist. Ensures I always have a memory file for the day.
 
 ### wg-gesucht-inbox
 - **ID:** `07898ab0-1155-4942-aef1-779c1be5802d`

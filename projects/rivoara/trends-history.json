@@ -2,6 +2,40 @@
   "reportedTrends": [
     {
       "date": "2026-01-29",
+      "trends": [
+        {
+          "trend": "Der Berlin-Effekt — Hartes Wasser & Strohspitzen",
+          "creator": "@assiariad",
+          "url": "https://www.tiktok.com/@assiariad/video/7518404637146287392",
+          "why": "Berlin creator connecting straw-like hair ends to hard water. Comments show solidarity among Berliners, mixed filter results, and the 'travel test' pattern. Key insight: cheap filters disappoint.",
+          "keyComments": [
+            "Berlin ist echt schlimm, was hartes Wasser angeht 😭",
+            "Habe genau den Filter seit einem Jahr... immer noch nicht gut 🥲 wenn ich 1-2x im Jahr in Freiburg Haare wasche sind die trzdm immer noch 100% weicher",
+            "Ich habe diesen Filter vor einem halben Jahr gekauft und es bringt leider absolut nichts",
+            "Immer wenn ich irgendwo in der Großstadt bin seh ich aus wie ein ausgerupftes Kaninchen"
+          ]
+        },
+        {
+          "trend": "Der Filter-Skeptiker-Moment",
+          "creator": "@solve.cosmetic",
+          "url": "https://www.tiktok.com/@solve.cosmetic/video/7553357559206382870",
+          "stats": {
+            "likes": "476.1K",
+            "comments": 1306
+          },
+          "why": "Viral video AGAINST shower filters. But comments reveal: massive awareness gap about hard water, price sensitivity from past disappointments, active solution-seeking, and the universal 'travel test' pattern.",
+          "keyComments": [
+            "why not install a water softener? (19.2K likes)",
+            "Tf is 'hard water' 😭 (11.9K likes)",
+            "I wanna believe you but I'm broke and can't handle or afford anymore disappointment 🫠",
+            "Seriously I hate it, in Japan my hair was so beautiful 😭",
+            "My husband is a plumber and thank GOD he knows his stuff bc hard water was KILLING my hair (1.6K likes)"
+          ]
+        }
+      ]
+    },
+    {
+      "date": "2026-01-29",
       "trend": "The Germany Water Shock Narrative",
       "creator": "@also.steph",
       "url": "https://www.tiktok.com/@also.steph/video/7392978137421729056",
@@ -37,7 +71,7 @@
       }
     }
   ],
-  "lastCheck": "2026-01-29T15:01:00Z",
-  "checkNotes": "Found different angle on water hardness: expat/newcomer struggle narrative. Rich comment gold with emotional pain points and explicit filter demand. Builds on yesterday's educational angle with personal stories.",
+  "lastCheck": "2026-01-29T20:30:00Z",
+  "checkNotes": "Two key patterns identified: (1) German city-dwellers with hard water frustration (Berlin leads), (2) The 'travel test' - hair is always better somewhere else. Massive awareness gap ('what is hard water?') and filter skepticism from cheap product failures.",
   "notes": "Track reported trends to avoid repeating. Each entry: {date, trend, sound, why}"
 }

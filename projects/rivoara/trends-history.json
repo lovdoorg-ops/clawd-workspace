@@ -1,6 +1,24 @@
 {
   "reportedTrends": [
     {
+      "date": "2026-01-29",
+      "trend": "The Germany Water Shock Narrative",
+      "creator": "@also.steph",
+      "url": "https://www.tiktok.com/@also.steph/video/7392978137421729056",
+      "stats": {
+        "likes": "1,863",
+        "comments": 785,
+        "shares": 520
+      },
+      "why": "Personal struggle video from expat in Berlin. Comments show emotional pain (hair loss, 'so depressing'), active filter demand, and renter problems. Different angle from educational content - this is raw personal narrative.",
+      "keyComments": [
+        "After moving 2 Germany, my hair won't grow past a certain point bc it gets dry & split ends...",
+        "I lost half of my hair since we came to Germany",
+        "Which one?! 🚿 😳 (creator asking about filters)",
+        "Wasserenthärtungsanlage... but that probably won't work for you if you're renting"
+      ]
+    },
+    {
       "date": "2026-01-28",
       "trend": "Wasserhärte & Haarstruktur (Water Hardness & Hair Structure)",
       "creator": "@.the.beautiful.people",
@@ -19,7 +37,7 @@
       }
     }
   ],
-  "lastCheck": "2026-01-28T21:55:00Z",
-  "checkNotes": "Found direct water hardness content with strong engagement. Creator @.the.beautiful.people doing educational series on the topic and testing shower filter competitors. Comment section reveals DIY solution seeking (vinegar, boiled water) and regional pain (North Germany hard water).",
+  "lastCheck": "2026-01-29T15:01:00Z",
+  "checkNotes": "Found different angle on water hardness: expat/newcomer struggle narrative. Rich comment gold with emotional pain points and explicit filter demand. Builds on yesterday's educational angle with personal stories.",
   "notes": "Track reported trends to avoid repeating. Each entry: {date, trend, sound, why}"
 }

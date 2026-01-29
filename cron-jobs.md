@@ -11,6 +11,8 @@ Active scheduled tasks managed by Clawdbot. All task jobs run in **isolated sess
 | 11:00 | tiktok-rivoara-warmup | isolated | g-forelox-cult |
 | 14:00 | wg-gesucht-search | isolated | g-cata-dani |
 | 15:00 | tiktok-rivoara-trends | isolated | g-forelox-cult |
+| 16:00 | lebensgunst-blog-ideation | isolated | — |
+| 17:00 | lebensgunst-blog-draft | isolated | — |
 | Various | valentines-nudge-* | main | Direct to Cata |
 
 ---
@@ -65,6 +67,39 @@ Active scheduled tasks managed by Clawdbot. All task jobs run in **isolated sess
 - **Browser:** profile "clawd" (port 9222)
 - **Approach:** Systems thinking — map causal loops between symptoms (hair damage, skin issues, product frustration, relocation) and water quality. Hunt for **nuanced connections** and **subtle desires** in comments, not direct shower filter content.
 - **Output:** Max 2 trends/day. Only report genuine creative opportunities with real Rivoara angles. Send NOTHING if no nuanced connection found.
+
+### lebensgunst-blog-ideation
+- **ID:** `7bb5b4ba-7adb-4145-8177-38fb69e01924`
+- **Schedule:** `0 16 * * *` (16:00 UTC daily)
+- **Session:** isolated
+- **Target:** — (internal processing, no WhatsApp)
+- **Task:** Generate blog post ideas from TikTok trends for lebensgunst.de
+
+  **Process:**
+  1. List all trend reports in `/root/clawd/projects/rivoara/trend-reports/`
+  2. Compare against `state.json processedTrends` to find unprocessed
+  3. Generate 3-5 blog post ideas with hijack angle
+  4. Score each (S/A/B tier) and select top S-tier
+  5. Create detailed briefing following `/root/clawd/workflows/blog-pipeline.md`
+  6. Save to `briefings/`, update `state.json`, git commit & push
+
+  **State:** `/root/clawd/projects/rivoara/blogs/lebensgunst/state.json`
+
+### lebensgunst-blog-draft
+- **ID:** `03d4a46e-19db-4574-a6f4-071a28ca26e5`
+- **Schedule:** `0 17 * * *` (17:00 UTC daily)
+- **Session:** isolated
+- **Target:** — (internal processing, no WhatsApp)
+- **Task:** Create full blog draft from briefing for lebensgunst.de
+
+  **Process:**
+  1. Find briefings with status `ready-for-draft` in `state.json`
+  2. Read briefing + source trend report
+  3. Read all guides in `/root/clawd/projects/rivoara/blogs/lebensgunst/`
+  4. Generate full draft following guides exactly
+  5. Save to `drafts/`, update `state.json` status to `drafted`, git commit & push
+
+  **Guides:** BLUEPRINT.md, voice-guide.md, blog-post-guide.md
 
 ### Valentine's Nudges
 - **Session:** main (personal reminders)

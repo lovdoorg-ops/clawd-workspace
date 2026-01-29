@@ -7,7 +7,8 @@
 ## Regeln
 
 ### 1. Formatierung
-- **Nur `-` verwenden** (nie `–` oder `—`)
+- **Bindestriche `-` vermeiden** wenn möglich (Aufzählungen, Listen). Alternativen: Nummerierung, Fließtext, Absätze
+- Falls `-` nötig: nur einfachen Bindestrich, nie `–` oder `—`
 - **TL;DR** direkt nach Intro (für kurze Aufmerksamkeitsspanne)
 - **Inhaltsverzeichnis** nach TL;DR
 - Vor Publish: Suchen & Ersetzen
@@ -30,10 +31,12 @@ Jeder Post braucht:
 Nicht "ein Tipp", sondern DIE Lösung. Andere Tipps sind "ergänzend".
 
 ### 5. Keine medizinische Beratung
-- Immer "Wann zum Arzt" Section
+- Standard-Disclaimer am Ende der Lösung oder in eigenem Abschnitt
+- **Formulierung:** "Dieser Artikel ersetzt keine medizinische Beratung. Bei anhaltenden Beschwerden wende dich an deinen Arzt."
 - Keine Diagnosen stellen
 - Keine Heilversprechen
 - Bei Krankheiten: "kann helfen", nicht "heilt"
+- **NICHT:** "Geh zum Arzt, wenn..." Listen (zu medizinisch/prescriptive)
 
 ### 6. Internes Verlinken
 Posts im selben Cluster verlinken aufeinander.
@@ -48,6 +51,11 @@ Posts im selben Cluster verlinken aufeinander.
 - Spezifische Produktnamen/Modelle nennen
 - Zahlen und Fakten (°dH, Temperaturen, Prozente)
 - "Warum" erklären, nicht nur "Was"
+
+### 9. Sprache
+- **Nur Deutsch** - keine englischen Zitate oder Phrasen
+- Wenn Source-Material englisch ist: übersetzen oder weglassen
+- Keine "Denglisch" Ausdrücke außer etablierte (z.B. "Styling")
 
 ---
 

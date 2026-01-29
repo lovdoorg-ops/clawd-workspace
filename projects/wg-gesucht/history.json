@@ -1,5 +1,5 @@
 {
-  "lastInboxCheck": "2026-01-29T00:00:00Z",
+  "lastInboxCheck": "2026-01-29T06:00:00Z",
   "lastSearchCheck": null,
   "seenListings": [],
   "seenMessages": [
@@ -18,5 +18,5 @@
     {"id": "ronny-44", "from": "Ronny (44)", "date": "2025-04-06", "summary": "Garden apartment, waiting for plans"}
   ],
   "sentToWhatsApp": ["markos-muehlschlegel-39"],
-  "notes": "2026-01-29: Bump failed - city field shows 'Genthin' instead of Wien, needs manual fix in browser"
+  "notes": "2026-01-29 06:00 UTC: Inbox checked - no new messages. Bump still blocked by city field bug ('Keine Stadt gefunden'). Needs manual fix via noVNC to re-select Wien in the autocomplete."
 }

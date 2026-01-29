@@ -4,6 +4,35 @@
 
 ---
 
+## Headline-Formel
+
+Headlines müssen clickbar UND SEO-optimiert sein.
+
+### Struktur
+```
+[Problem/Produkt] + [Spannung] + [Geheimnis/Überraschung]
+```
+
+### Beispiele
+✅ **Dyson Airwrap und trotzdem kaputte Haare? Das Geheimnis, das Dyson nicht verrät**
+✅ **Olaplex wirkt nicht? Was dir niemand über dein Wasser erzählt**
+✅ **Haare wachsen nicht mehr? Die versteckte Ursache, die kein Friseur kennt**
+✅ **500€ für Skincare - und trotzdem Pickel? Hier ist der Fehler**
+
+### Regeln
+- **Max 60 Zeichen** für SEO Title Tag (Google schneidet ab)
+- **Fragezeichen** funktionieren gut (triggert Neugier)
+- **Keyword am Anfang** wenn möglich
+- **Spannung aufbauen** - "Geheimnis", "niemand erzählt", "versteckt"
+- **Produkt/Problem direkt nennen** - Hijack-Target im Titel
+
+### Verboten
+❌ Clickbait ohne Substanz
+❌ Generische Headlines ("10 Tipps für schöne Haare")
+❌ Keyword-Stuffing
+
+---
+
 ## Regeln
 
 ### 1. Formatierung

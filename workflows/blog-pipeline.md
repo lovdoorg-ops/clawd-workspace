@@ -214,24 +214,57 @@ What makes this post unique vs existing content:
 ## Folder Structure
 
 ```
-blogs/
-├── workflows/
-│   └── blog-pipeline.md      ← this file
+workflows/
+└── blog-pipeline.md              ← this file
+
+projects/rivoara/blogs/
 ├── lebensgunst/
-│   ├── BLUEPRINT.md
-│   ├── voice-guide.md
-│   ├── blog-post-guide.md
-│   ├── briefings/            ← Stage 2 output
-│   └── drafts/               ← Stage 3 output
+│   ├── BLUEPRINT.md              ← structure, arc, core rules
+│   ├── voice-guide.md            ← writing style
+│   ├── blog-post-guide.md        ← post rules, checklist
+│   ├── state.json                ← pipeline state tracking
+│   ├── briefings/                ← Stage 2 output
+│   └── drafts/                   ← Stage 3 output
 ├── rivoara/
 │   ├── BLUEPRINT.md
+│   ├── state.json
 │   ├── briefings/
 │   └── drafts/
 └── duschfilter/
     ├── BLUEPRINT.md
+    ├── state.json
     ├── briefings/
     └── drafts/
 ```
+
+---
+
+## State Tracking (state.json)
+
+Each site has a `state.json` to track pipeline progress:
+
+```json
+{
+  "processedTrends": ["2026-01-28", "2026-01-29"],
+  "briefings": {
+    "2026-01-29-olaplex": {
+      "status": "ready-for-draft",
+      "created": "2026-01-29",
+      "sourceTrend": "2026-01-29",
+      "score": "S"
+    }
+  },
+  "publishedPosts": ["dyson-airwrap-und-trotzdem-kaputte-haare"],
+  "lastUpdated": "2026-01-29T16:00:00Z"
+}
+```
+
+| Field | Purpose |
+|-------|---------|
+| `processedTrends` | Skip already-processed trend reports |
+| `briefings` | Track status: `ready-for-draft` → `drafted` → `published` |
+| `publishedPosts` | Avoid duplicate content |
+| `lastUpdated` | Timestamp of last state change |
 
 ---
 

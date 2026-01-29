@@ -21,6 +21,7 @@ Potential TikTok creators for product seeding — shower filter in exchange for 
 | Handle | URL | Followers | Niche | Notes | Added |
 |--------|-----|-----------|-------|-------|-------|
 | @soulreisen | https://www.tiktok.com/@soulreisen | ~small | Travel/backpacking | German (Melina), ALREADY promotes Duschfilter for travel! Perfect warm lead. Has linktree with must-haves. | 2026-01-28 |
+| @anfisachel | https://www.tiktok.com/@anfisachel | ~2K | Skincare & Haircare | German, "your hair girlie", explicitly skincare & haircare niche - PERFECT for shower filter! | 2026-01-29 |
 
 ## A-Tier Prospects
 

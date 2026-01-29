@@ -4,9 +4,17 @@ Three sites, three voices, one source (TikTok trends reports).
 
 ```
 blogs/
-├── lebensgunst/     ← Pushy wellness editorial (start here)
-├── rivoara/         ← Conservative, German-law compliant
-└── duschfilter/     ← Direct SEO, comparison content
+├── lebensgunst/
+│   ├── BLUEPRINT.md
+│   ├── voice-guide.md
+│   ├── blog-post-guide.md
+│   └── drafts/           ← Generated drafts land here
+├── rivoara/
+│   ├── BLUEPRINT.md
+│   └── drafts/
+└── duschfilter/
+    ├── BLUEPRINT.md
+    └── drafts/
 ```
 
 ## Workflow

@@ -1,7 +1,28 @@
 {
-  "lastInboxCheck": "2026-01-29T12:51:00Z",
-  "lastSearchCheck": null,
-  "seenListings": [],
+  "lastInboxCheck": "2026-01-29T13:24:00Z",
+  "lastSearchCheck": "2026-01-29T14:00:00Z",
+  "seenListings": [
+    "1298218",
+    "11380339",
+    "12962891",
+    "10328621",
+    "12129393",
+    "12129798",
+    "11978640",
+    "10903802",
+    "8912353",
+    "11745486",
+    "12990436",
+    "12990225",
+    "12990007",
+    "12989943",
+    "12049877",
+    "12868170",
+    "12226107",
+    "12911771",
+    "11134883",
+    "12924271"
+  ],
   "seenMessages": [
     {"id": "markos-muehlschlegel-39", "from": "Markos Mühlschlegel (39)", "date": "2026-01-29", "summary": "2 Zimmer in Wohnung mit Coworkingspace, Langzeit möglich, Links: 12952121, 12952280"},
     {"id": "klaus-michael-le-goff-36-scam", "from": "Klaus-Michael Le Goff (36)", "date": "2026-01-28", "summary": "SCAM/PHISHING - fake account warning with Cyrillic characters"},
@@ -17,6 +38,6 @@
     {"id": "sabrina-35", "from": "Sabrina (35)", "date": "2025-04-09", "summary": "Hallein, 2 rooms"},
     {"id": "ronny-44", "from": "Ronny (44)", "date": "2025-04-06", "summary": "Garden apartment, waiting for plans"}
   ],
-  "sentToWhatsApp": ["markos-muehlschlegel-39"],
-  "notes": "2026-01-29 12:51 UTC: Inbox checked - no new messages. Post bumped successfully (was last updated at 07:01 UTC). Active listing: 12948595. Stats: 6 Anfragen, 50 Besucher in 30 Tagen."
+  "sentToWhatsApp": ["markos-muehlschlegel-39", "wg-search-2026-01-29"],
+  "notes": "2026-01-29 14:00 UTC: First search check completed. Found 20 listings on page 1 of befristet filter. Several promising matches for March 15 - April 1 move-in date."
 }

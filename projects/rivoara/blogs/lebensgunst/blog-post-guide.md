@@ -57,6 +57,12 @@ Posts im selben Cluster verlinken aufeinander.
 - Wenn Source-Material englisch ist: übersetzen oder weglassen
 - Keine "Denglisch" Ausdrücke außer etablierte (z.B. "Styling")
 
+### 10. Produkt-Fakten (wichtig!)
+- **Duschfilter machen Wasser NICHT weich** (entfernen kein Calcium/Magnesium)
+- **Duschfilter reduzieren die WIRKUNG von Kalk** auf Haut und Haare
+- Nie schreiben: "weiches Wasser", "enthärtet das Wasser", "entfernt Kalk komplett"
+- Korrekt: "reduziert die Auswirkungen von hartem Wasser", "schützt Haut und Haare vor Kalkablagerungen"
+
 ---
 
 ## Vor dem Publish

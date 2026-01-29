@@ -1,8 +1,16 @@
 {
-  "processedTrends": [],
-  "briefings": {},
+  "processedTrends": ["2026-01-28", "2026-01-29"],
+  "briefings": {
+    "2026-01-29-haare-wachsen-nicht-mehr": {
+      "status": "ready-for-draft",
+      "created": "2026-01-29",
+      "sourceTrend": "2026-01-29",
+      "score": "S",
+      "title": "Haare wachsen nicht mehr? Vielleicht liegt es am Wasser"
+    }
+  },
   "publishedPosts": [
     "dyson-airwrap-und-trotzdem-kaputte-haare"
   ],
-  "lastUpdated": null
+  "lastUpdated": "2026-01-29T19:02:00Z"
 }

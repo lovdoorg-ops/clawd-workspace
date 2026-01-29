@@ -24,7 +24,7 @@ blogs/
 
 ## Workflow
 
-See [workflows/blog-pipeline.md](workflows/blog-pipeline.md) for full documentation.
+See [/root/clawd/workflows/blog-pipeline.md](/root/clawd/workflows/blog-pipeline.md) for full documentation.
 
 ```
 Trends Report → Ideation Cron → Briefings → Draft Cron → Drafts

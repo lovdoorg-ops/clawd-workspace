@@ -111,11 +111,16 @@ Active scheduled tasks managed by Clawdbot. All task jobs run in **isolated sess
 
   **Process:**
   1. Find briefings with status `drafted`
-  2. Generate featured image using Gemini CLI + nanobanana
-  3. Upload image to Ghost
-  4. Convert markdown to HTML, create post via Ghost Admin API
-  5. Update `state.json` status to `published`
-  6. Git commit & push
+  2. Generate featured image using Gemini CLI + nanobanana:
+     - Prompt: lifestyle photography, pink/coral tones, bathroom setting
+     - Resize to 1200x630 with ImageMagick
+  3. Upload image to Ghost: `POST /ghost/api/admin/images/upload/`
+  4. Convert markdown to HTML
+  5. Create post via Ghost Admin API:
+     - **IMPORTANT:** Use `?source=html` parameter
+     - `POST /ghost/api/admin/posts/?source=html`
+  6. Update `state.json` status to `published`
+  7. Git commit & push
 
   **Secrets:** `/root/clawd/projects/rivoara/blogs/.secrets` (Ghost + Gemini keys)
 

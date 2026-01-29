@@ -1,8 +1,9 @@
 {
-  "lastInboxCheck": "2026-01-28T21:10:00Z",
+  "lastInboxCheck": "2026-01-29T00:00:00Z",
   "lastSearchCheck": null,
   "seenListings": [],
   "seenMessages": [
+    {"id": "markos-muehlschlegel-39", "from": "Markos Mühlschlegel (39)", "date": "2026-01-29", "summary": "2 Zimmer in Wohnung mit Coworkingspace, Langzeit möglich, Links: 12952121, 12952280"},
     {"id": "klaus-michael-le-goff-36-scam", "from": "Klaus-Michael Le Goff (36)", "date": "2026-01-28", "summary": "SCAM/PHISHING - fake account warning with Cyrillic characters"},
     {"id": "yvette-55-anzengruber", "from": "Frau Yvette (55)", "date": "2026-01-27", "summary": "1050 Wien, Anzengrubergasse 4/4"},
     {"id": "anna-s-25", "from": "Anna S. (25)", "date": "2026-01-26", "summary": "Ongoing conversation"},
@@ -16,5 +17,6 @@
     {"id": "sabrina-35", "from": "Sabrina (35)", "date": "2025-04-09", "summary": "Hallein, 2 rooms"},
     {"id": "ronny-44", "from": "Ronny (44)", "date": "2025-04-06", "summary": "Garden apartment, waiting for plans"}
   ],
-  "sentToWhatsApp": []
+  "sentToWhatsApp": ["markos-muehlschlegel-39"],
+  "notes": "2026-01-29: Bump failed - city field shows 'Genthin' instead of Wien, needs manual fix in browser"
 }

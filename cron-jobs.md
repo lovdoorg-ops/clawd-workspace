@@ -13,6 +13,7 @@ Active scheduled tasks managed by Clawdbot. All task jobs run in **isolated sess
 | 15:00 | tiktok-rivoara-trends | isolated | g-forelox-cult |
 | 16:00 | lebensgunst-blog-ideation | isolated | — |
 | 17:00 | lebensgunst-blog-draft | isolated | — |
+| 18:00 | lebensgunst-blog-publish | isolated | — |
 | Various | valentines-nudge-* | main | Direct to Cata |
 
 ---
@@ -100,6 +101,23 @@ Active scheduled tasks managed by Clawdbot. All task jobs run in **isolated sess
   5. Save to `drafts/`, update `state.json` status to `drafted`, git commit & push
 
   **Guides:** BLUEPRINT.md, voice-guide.md, blog-post-guide.md
+
+### lebensgunst-blog-publish
+- **ID:** `776c16f9-4027-4194-b816-ad0aec8e0429`
+- **Schedule:** `0 18 * * *` (18:00 UTC daily)
+- **Session:** isolated
+- **Target:** — (internal, WhatsApp only on failure)
+- **Task:** Publish drafted posts to lebensgunst.de via Ghost API
+
+  **Process:**
+  1. Find briefings with status `drafted`
+  2. Generate featured image using Gemini CLI + nanobanana
+  3. Upload image to Ghost
+  4. Convert markdown to HTML, create post via Ghost Admin API
+  5. Update `state.json` status to `published`
+  6. Git commit & push
+
+  **Secrets:** `/root/clawd/projects/rivoara/blogs/.secrets` (Ghost + Gemini keys)
 
 ### Valentine's Nudges
 - **Session:** main (personal reminders)

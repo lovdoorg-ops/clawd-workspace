@@ -2,6 +2,17 @@
 
 Active scheduled tasks managed by Clawdbot. All task jobs run in **isolated sessions** — they don't touch main session context.
 
+## Browser Access
+
+⚠️ **All browser jobs use VNC Chrome (port 9222)** via the helper script:
+```bash
+node /root/clawd/scripts/vnc-browser.js <action> [args...]
+```
+
+Actions: `tabs`, `navigate <url>`, `screenshot [file]`, `snapshot`, `click <selector>`, `type <selector> <text>`, `eval <code>`
+
+**Do NOT use the Clawdbot `browser` tool** — it doesn't support external CDP endpoints.
+
 ## Schedule (UTC)
 
 | Schedule | Job | Session | Target Group |

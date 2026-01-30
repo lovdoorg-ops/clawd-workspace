@@ -1,6 +1,6 @@
 {
-  "lastInboxCheck": "2026-01-30T00:00:00Z",
-  "lastSearchCheck": "2026-01-29T14:00:00Z",
+  "lastInboxCheck": "2026-01-30T15:00:00Z",
+  "lastSearchCheck": "2026-01-30T14:00:00Z",
   "seenListings": [
     "1298218",
     "11380339",
@@ -21,7 +21,19 @@
     "12226107",
     "12911771",
     "11134883",
-    "12924271"
+    "12924271",
+    "12999949",
+    "12910302",
+    "12984972",
+    "12819288",
+    "7930450",
+    "12995396",
+    "10300489",
+    "11910963",
+    "11003780",
+    "12995525",
+    "12990966",
+    "12736177"
   ],
   "seenMessages": [
     {"id": "markos-muehlschlegel-39", "from": "Markos Mühlschlegel (39)", "date": "2026-01-29", "summary": "2 Zimmer in Wohnung mit Coworkingspace, Langzeit möglich, Links: 12952121, 12952280"},
@@ -38,6 +50,6 @@
     {"id": "sabrina-35", "from": "Sabrina (35)", "date": "2025-04-09", "summary": "Hallein, 2 rooms"},
     {"id": "ronny-44", "from": "Ronny (44)", "date": "2025-04-06", "summary": "Garden apartment, waiting for plans"}
   ],
-  "sentToWhatsApp": ["markos-muehlschlegel-39", "wg-search-2026-01-29"],
-  "notes": "2026-01-30 00:00 UTC: Inbox check - no new messages. Post bump SUCCESS - listing 12948595 updated. Active listing: 'Zwischenmiete Ende März/Anfang April' (Wien, 6 inquiries, 53 visitors in 30 days)."
+  "sentToWhatsApp": ["markos-muehlschlegel-39", "wg-search-2026-01-29", "wg-search-2026-01-30"],
+  "notes": "2026-01-30 15:00 UTC: Inbox check completed. No new messages (the 5 unread are old messages from 2024 summer search). Waiting for replies from Yvette (asked for photos) and Anna S. (interested in their place until mid-May). Listing successfully bumped/updated."
 }

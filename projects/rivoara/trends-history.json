@@ -1,6 +1,27 @@
 {
   "reportedTrends": [
     {
+      "date": "2026-01-30",
+      "trends": [
+        {
+          "trend": "The Expat Hair Crisis — Why did I lose hair after moving to Germany?",
+          "creator": "@thegermanytales",
+          "url": "https://www.tiktok.com/@thegermanytales/video/7569993818213207318",
+          "why": "International expat perspective (English-speaking) asking why hair loss happens after moving to Germany. Comments directly connect to hard water and recommend water filters. High emotional stakes - people mention bald spots. Different angle: incoming expats rather than native Germans.",
+          "keyComments": [
+            "because water in Germany hard is. I use this, Gentle Shampo and Conditioner non SLS, Water Filter, and hair produkt like Rosmarin Oil or Minoxidil. those help me soo much",
+            "A lot of Germany has hard water which can definitely aid in hairloss.",
+            "Mine did too until I ordered Hard Water shampoo/conditioner from amazon",
+            "I'm super curious why a lot of women move to Germany and suffer hair loss. I'm seeing more and more women open up about it.",
+            "same problem not just hairfall also dandruff too 😳😳",
+            "same in austria 😭 i am going to bald its too much",
+            "baka sa tubig po (Tagalog: maybe it's the water)",
+            "Omg I lost so much hair was well, I now have bald spots."
+          ]
+        }
+      ]
+    },
+    {
       "date": "2026-01-29",
       "trends": [
         {
@@ -19,10 +40,6 @@
           "trend": "Der Filter-Skeptiker-Moment",
           "creator": "@solve.cosmetic",
           "url": "https://www.tiktok.com/@solve.cosmetic/video/7553357559206382870",
-          "stats": {
-            "likes": "476.1K",
-            "comments": 1306
-          },
           "why": "Viral video AGAINST shower filters. But comments reveal: massive awareness gap about hard water, price sensitivity from past disappointments, active solution-seeking, and the universal 'travel test' pattern.",
           "keyComments": [
             "why not install a water softener? (19.2K likes)",
@@ -54,11 +71,6 @@
       "trend": "The Germany Water Shock Narrative",
       "creator": "@also.steph",
       "url": "https://www.tiktok.com/@also.steph/video/7392978137421729056",
-      "stats": {
-        "likes": "1,863",
-        "comments": 785,
-        "shares": 520
-      },
       "why": "Personal struggle video from expat in Berlin. Comments show emotional pain (hair loss, 'so depressing'), active filter demand, and renter problems. Different angle from educational content - this is raw personal narrative.",
       "keyComments": [
         "After moving 2 Germany, my hair won't grow past a certain point bc it gets dry & split ends...",
@@ -72,12 +84,6 @@
       "trend": "Wasserhärte & Haarstruktur (Water Hardness & Hair Structure)",
       "creator": "@.the.beautiful.people",
       "url": "https://www.tiktok.com/@.the.beautiful.people/video/7525492044123426070",
-      "stats": {
-        "likes": "13.2K",
-        "comments": 222,
-        "saves": 2693,
-        "shares": 560
-      },
       "why": "Educational content directly about water hardness affecting hair. Creator testing competitor (Pici Nici). Comments show DIY pain (vinegar, boiled water) and regional awareness (North Germany). Strong save ratio indicates intent to act.",
       "supporting": {
         "creator": "@assiariad",
@@ -86,7 +92,7 @@
       }
     }
   ],
-  "lastCheck": "2026-01-29T20:51:00Z",
-  "checkNotes": "Three key patterns: (1) German city-dwellers with hard water frustration, (2) The 'travel test' for hair AND skin, (3) Expat communities (Turkish, international) as untapped audience. SKIN issues now emerging alongside hair.",
+  "lastCheck": "2026-01-30T15:04:00Z",
+  "checkNotes": "New pattern: English-speaking international expat community actively discussing hair loss in Germany and connecting it to hard water. Water filters being recommended organically in comments. Extends to DACH region (Austria mentioned). Filipino expat community also connecting dots.",
   "notes": "Track reported trends to avoid repeating. Each entry: {date, trend, sound, why}"
 }

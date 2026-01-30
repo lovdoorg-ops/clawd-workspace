@@ -22,6 +22,8 @@ Potential TikTok creators for product seeding — shower filter in exchange for 
 |--------|-----|-----------|-------|-------|-------|
 | @soulreisen | https://www.tiktok.com/@soulreisen | ~small | Travel/backpacking | German (Melina), ALREADY promotes Duschfilter for travel! Perfect warm lead. Has linktree with must-haves. | 2026-01-28 |
 | @anfisachel | https://www.tiktok.com/@anfisachel | ~2K | Skincare & Haircare | German, "your hair girlie", explicitly skincare & haircare niche - PERFECT for shower filter! | 2026-01-29 |
+| @onlylaine.e | https://www.tiktok.com/@onlylaine.e | ~4.5K | Haircare, Makeup, Lifestyle | German (Laine), "Make Up💄 Lifestyle✨ Tipps💯 Hair🫧", actively does #anzeige content, perfect haircare focus | 2026-01-30 |
+| @dajana.cvt | https://www.tiktok.com/@dajana.cvt | ~3.5K | Hair, Makeup, Talks | German (Dajana), "hair \| make up \| talks", email: dajanacvijetic5@gmail.com, #hairtok #skincaretips content | 2026-01-30 |
 
 ## A-Tier Prospects
 

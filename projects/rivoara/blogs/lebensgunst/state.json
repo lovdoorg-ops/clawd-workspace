@@ -1,5 +1,5 @@
 {
-  "processedTrends": ["2026-01-28", "2026-01-29"],
+  "processedTrends": ["2026-01-28", "2026-01-29", "2026-01-30"],
   "briefings": {
     "2026-01-29-haare-wachsen-nicht-mehr": {
       "status": "published",
@@ -13,11 +13,18 @@
       "ghostUrl": "https://lebensgunst.de/haare-wachsen-nicht-mehr-vielleicht-liegt-es-am-wasser/",
       "ghostId": "697bbaee44e40000016dd4e7",
       "featureImage": "https://lebensgunst.de/content/images/2026/01/a_featured_image_for_a_womens_ha.png"
+    },
+    "2026-01-30-nach-deutschland-gezogen-haarausfall": {
+      "status": "ready-for-draft",
+      "created": "2026-01-30",
+      "sourceTrend": "2026-01-30",
+      "score": "S",
+      "title": "Nach Deutschland gezogen — und plötzlich fallen die Haare aus"
     }
   },
   "publishedPosts": [
     "dyson-airwrap-und-trotzdem-kaputte-haare",
     "haare-wachsen-nicht-mehr-vielleicht-liegt-es-am-wasser"
   ],
-  "lastUpdated": "2026-01-29T19:53:00Z"
+  "lastUpdated": "2026-01-30T16:00:00Z"
 }

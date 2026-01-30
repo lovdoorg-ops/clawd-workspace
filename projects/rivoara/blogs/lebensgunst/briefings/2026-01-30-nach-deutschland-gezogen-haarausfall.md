@@ -1,4 +1,4 @@
-# Blog Briefing: Nach Deutschland gezogen — und plötzlich fallen die Haare aus
+# Blog Briefing: Nach Deutschland gezogen - und plötzlich fallen die Haare aus
 
 **Generated:** 2026-01-30
 **Site:** lebensgunst.de
@@ -9,7 +9,7 @@
 
 ## Core Concept
 
-**Hijack target:** The "expat mystery" — why does hair fall out after moving to Germany? Viral TikTok content with international creators confused about sudden hair loss.
+**Hijack target:** The "expat mystery" - why does hair fall out after moving to Germany? Viral TikTok content with international creators confused about sudden hair loss.
 
 **Water angle:** German hard water is the culprit. Commenters are ALREADY making this connection organically ("baka sa tubig po" / "Germany has hard water which can definitely aid in hairloss"). This is the reveal they're searching for.
 
@@ -53,7 +53,7 @@
    - Emotional: "Ich dachte, ich werde kahl"
    - Kommentare von TikTok als Social Proof (anonymisiert)
 
-2. **Du bist nicht allein — es ist ein Muster**
+2. **Du bist nicht allein - es ist ein Muster**
    - Tausende Expats erleben das Gleiche
    - Nicht nur Deutschland: Österreich, Schweiz, ganz DACH
    - "Meine Freundin hat das Gleiche erlebt"
@@ -65,7 +65,7 @@
    - Stress reduzieren
    - → Nichts hat wirklich geholfen
 
-4. **Die überraschende Wahrheit: Es ist nicht DU — es ist das Wasser**
+4. **Die überraschende Wahrheit: Es ist nicht DU - es ist das Wasser**
    - Hartes Wasser in Deutschland erklärt
    - Kalkgehalt regional unterschiedlich
    - Vergleich: Dein Heimatland vs. Deutschland
@@ -122,14 +122,14 @@
 - [ ] TikTok-Trend als Social Proof: "Tausende Expats berichten dasselbe"
 - [ ] Vergleich Heimatland: Südeuropa, Asien, USA oft weicheres Wasser
 - [ ] Kalkablagerung visuell beschreiben: "Wie ein unsichtbarer Film"
-- [ ] Philippinischer Kommentar erwähnen: "Baka sa tubig" — selbst aus Übersee erkennen Menschen das Muster
+- [ ] Philippinischer Kommentar erwähnen: "Baka sa tubig" - selbst aus Übersee erkennen Menschen das Muster
 
 ---
 
 ## Examples & Analogies
 
 - "Stell dir vor, du wäschst deine Haare jeden Tag mit Kreide-Wasser"
-- "Es ist wie ein Kalkrand in der Badewanne — nur auf deiner Kopfhaut"
+- "Es ist wie ein Kalkrand in der Badewanne - nur auf deiner Kopfhaut"
 - "Shampoo wechseln ohne Wasserfilter ist wie den Boden wischen, während die Decke tropft"
 - Vorher/Nachher Heimat vs. Deutschland: "In Thailand: Traumhaare. In München: Stroh."
 
@@ -137,8 +137,8 @@
 
 ## Internal Links
 
-- [Dyson Airwrap Artikel](https://lebensgunst.de/dyson-airwrap-und-trotzdem-kaputte-haare/) — "Auch teure Geräte helfen nicht gegen Kalk"
-- [Haare wachsen nicht mehr](https://lebensgunst.de/haare-wachsen-nicht-mehr-vielleicht-liegt-es-am-wasser/) — "Wenn das Wachstum stoppt"
+- [Dyson Airwrap Artikel](https://lebensgunst.de/dyson-airwrap-und-trotzdem-kaputte-haare/) - "Auch teure Geräte helfen nicht gegen Kalk"
+- [Haare wachsen nicht mehr](https://lebensgunst.de/haare-wachsen-nicht-mehr-vielleicht-liegt-es-am-wasser/) - "Wenn das Wachstum stoppt"
 
 ---
 
@@ -146,7 +146,7 @@
 
 What makes this post unique vs existing content:
 - **Relocation-Fokus:** Kein generischer Haarausfall-Artikel, sondern spezifisch "nach Umzug"
-- **Expat-Perspektive:** Emotional anders — sie WISSEN, dass ihre Haare vorher besser waren
+- **Expat-Perspektive:** Emotional anders - sie WISSEN, dass ihre Haare vorher besser waren
 - **Social Proof von TikTok:** Echte Community-Erfahrungen, nicht nur "Experten sagen"
 - **International angle:** Vergleich zu Heimatländern mit weicherem Wasser
 - **Actionable:** Nicht nur "könnte am Wasser liegen" sondern konkreter Lösungsweg
@@ -167,4 +167,4 @@ What makes this post unique vs existing content:
 
 **Unique angle:** Expat-Perspektive wird fast nie bedient. Wir können diese Nische dominieren.
 
-**Water connection:** ORGANISCH. Kommentatoren sagen SELBST "it's the water" — wir müssen sie nicht überzeugen, nur die Lösung liefern.
+**Water connection:** ORGANISCH. Kommentatoren sagen SELBST "it's the water" - wir müssen sie nicht überzeugen, nur die Lösung liefern.

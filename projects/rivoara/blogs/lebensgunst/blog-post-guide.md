@@ -7,11 +7,12 @@
 ## Regeln
 
 ### 1. Formatierung
+- **NIEMALS `–` oder `—` verwenden!** Nur einfachen Bindestrich `-` wenn unbedingt nötig
+- Em-Dash (—) und En-Dash (–) sind VERBOTEN - immer durch `-` ersetzen oder umformulieren
 - **Bindestriche `-` vermeiden** wenn möglich (Aufzählungen, Listen). Alternativen: Nummerierung, Fließtext, Absätze
-- Falls `-` nötig: nur einfachen Bindestrich, nie `–` oder `—`
 - **TL;DR** direkt nach Intro (für kurze Aufmerksamkeitsspanne)
 - **Inhaltsverzeichnis** nach TL;DR
-- Vor Publish: Suchen & Ersetzen
+- **Vor Publish:** Suchen & Ersetzen für `–` und `—`
 
 ### 2. TL;DR Format
 Direkt nach dem Hook - beantwortet die Frage sofort + pusht Duschfilter:

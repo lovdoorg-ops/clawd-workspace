@@ -1,5 +1,7 @@
 # Nach Deutschland gezogen — und plötzlich fallen die Haare aus
 
+![Frau im Badezimmer betrachtet Haare in ihrer Hand](../nanobanana-output/blog_featured_image_lifestyle_ph.png)
+
 Du bist nach Deutschland gezogen. Neues Land, neues Leben, neue Chancen.
 
 Und dann: Haare überall. In der Dusche. Auf dem Kissen. Im Kamm.

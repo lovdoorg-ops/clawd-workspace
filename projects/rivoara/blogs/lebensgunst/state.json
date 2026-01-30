@@ -15,18 +15,23 @@
       "featureImage": "https://lebensgunst.de/content/images/2026/01/a_featured_image_for_a_womens_ha.png"
     },
     "2026-01-30-nach-deutschland-gezogen-haarausfall": {
-      "status": "drafted",
+      "status": "published",
       "created": "2026-01-30",
       "sourceTrend": "2026-01-30",
       "score": "S",
       "title": "Nach Deutschland gezogen — und plötzlich fallen die Haare aus",
       "draftedAt": "2026-01-30T17:00:00Z",
-      "draftPath": "drafts/2026-01-30-nach-deutschland-gezogen-haarausfall.md"
+      "draftPath": "drafts/2026-01-30-nach-deutschland-gezogen-haarausfall.md",
+      "publishedAt": "2026-01-30T18:03:00Z",
+      "ghostUrl": "https://lebensgunst.de/nach-deutschland-gezogen-und-plotzlich-fallen-die-haare-aus/",
+      "ghostId": "697cf2bd44e40000016dd4f3",
+      "featureImage": "https://lebensgunst.de/content/images/2026/01/featured_resized.png"
     }
   },
   "publishedPosts": [
     "dyson-airwrap-und-trotzdem-kaputte-haare",
-    "haare-wachsen-nicht-mehr-vielleicht-liegt-es-am-wasser"
+    "haare-wachsen-nicht-mehr-vielleicht-liegt-es-am-wasser",
+    "nach-deutschland-gezogen-und-plotzlich-fallen-die-haare-aus"
   ],
-  "lastUpdated": "2026-01-30T17:00:00Z"
+  "lastUpdated": "2026-01-30T18:03:00Z"
 }

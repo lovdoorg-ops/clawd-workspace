@@ -1,8 +1,47 @@
 {
   "reportedTrends": [
     {
+      "date": "2026-01-31",
+      "trends": [
+        {
+          "trend": "Kopfhaut-Nische — Das Unbekannte Wasserproblem",
+          "creator": "@dejangarz",
+          "url": "https://www.tiktok.com/@dejangarz/video/7477856233223949590",
+          "why": "German hairstylist (267K followers) educating about scalp issues: dandruff, dryness, itching, crusts. Comments show FRUSTRATED people with persistent problems trying endless products. KEY INSIGHT: In 430 comments, NOBODY mentions water quality as a potential cause - massive education gap!",
+          "stats": "47.7K likes, 430 comments, 29.5K saves",
+          "adjacentTopic": "Kopfhautpflege / Scalp Health",
+          "keyComments": [
+            "jetzt habe ich gefühlt alle diese Probleme in einem, was nun? (1871 likes)",
+            "Was nehme ich wenn ich schuppen und trockene juckende Haut habe?",
+            "Seit meiner Kindheit kenne ich nichts anderes als juckende Kopfhaut...",
+            "Shampoo 1,2,3 hilft nicht!",
+            "nix hilft 🥲",
+            "kannst du Shampoos empfehlen für Neurodermitis?"
+          ],
+          "strategyIdea": "Stitch/Duett: 'Was wenn das Problem nicht das Shampoo ist, sondern das Wasser?' - Hairstylist als potentieller Kooperationspartner"
+        }
+      ]
+    },
+    {
       "date": "2026-01-30",
       "trends": [
+        {
+          "trend": "Chlorine Pool Hair Damage — Adjacent niche",
+          "creator": "@lisamakeupxo",
+          "url": "https://www.tiktok.com/@lisamakeupxo/video/7591611202917141792",
+          "why": "Hair damage from chlorine in swimming pools. Fresh adjacent angle - connects chlorine awareness to shower filter value prop. Seasonal opportunity for summer/swimmer audience.",
+          "stats": "2,336 likes, 123 comments, 78 saves",
+          "adjacentTopic": "Swimming/Chlorine"
+        },
+        {
+          "trend": "Baby Bath Water Filter (US proof of concept)",
+          "creator": "@jordan_b_smith",
+          "url": "https://www.tiktok.com/@jordan_b_smith/video/7594883551598841102",
+          "why": "Mom promoting Canopy bath water filter for baby eczema. Proves parenting niche is actively seeking water filtration for sensitive baby skin. Paid partnership shows market validation.",
+          "stats": "10.9K views",
+          "adjacentTopic": "Parenting/Baby skin",
+          "note": "US-based but shows viable German angle with @kinderhautdocs style creators"
+        },
         {
           "trend": "The Expat Hair Crisis — Why did I lose hair after moving to Germany?",
           "creator": "@thegermanytales",
@@ -92,7 +131,7 @@
       }
     }
   ],
-  "lastCheck": "2026-01-30T15:04:00Z",
-  "checkNotes": "New pattern: English-speaking international expat community actively discussing hair loss in Germany and connecting it to hard water. Water filters being recommended organically in comments. Extends to DACH region (Austria mentioned). Filipino expat community also connecting dots.",
+  "lastCheck": "2026-01-31T15:30:00Z",
+  "checkNotes": "Explored ADJACENT topics: Scalp health (Kopfhautpflege), Men's skincare, Neurodermitis. Found hairstylist content where people complain about scalp issues but nobody connects it to water quality - major education gap for Rivoara.",
   "notes": "Track reported trends to avoid repeating. Each entry: {date, trend, sound, why}"
 }

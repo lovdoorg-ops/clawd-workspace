@@ -1,0 +1,30 @@
+{
+  "currentWeek": "2026-W06",
+  "weekRange": "Feb 2 - Feb 8",
+  "deadline": "Saturday, Feb 8",
+  "group": "120363422731792463@g.us",
+  "groupName": "g-forelox-cult",
+  "tasks": {
+    "daniela": {
+      "active": ["shares images and website design ideas with Cata"],
+      "done": []
+    },
+    "kamil": {
+      "active": ["shares copy & design for website with Cata", "shares first ads"],
+      "done": []
+    },
+    "cata": {
+      "active": ["build website with material", "resolve packaging issue"],
+      "done": []
+    }
+  },
+  "lastWeek": {
+    "week": "2026-W05",
+    "done": {
+      "daniela": ["took real pictures with the product"],
+      "kamil": ["website copy"],
+      "cata": ["3PL software setup", "TikTok reports + blogpost automation"]
+    }
+  },
+  "lastUpdated": "2026-01-30T23:30:00Z"
+}

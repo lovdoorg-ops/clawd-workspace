@@ -27,7 +27,9 @@ Hey team, quick check-in - how's it going? Any updates or blockers?
 Share what you finished or worked on this week.
 ```
 
-### Sunday Weekly Update
+### Sunday Weekly Update (2 messages)
+
+**Message 1 - Done:**
 ```
 **Week X (Date Range)**
 
@@ -37,28 +39,15 @@ Share what you finished or worked on this week.
 - Daniela: [items]
 - Kamil: [items]
 - Cata: [items]
+```
 
-
----
-
-
+**Message 2 - Active tasks:**
+```
 🎯 **Active tasks (until Saturday, [Date]):**
 
-- Daniela: [tasks]
-- Kamil: [tasks]
-- Cata: [tasks]
-
-
----
-
-
-*This is just the minimum. Do your own research, bring ideas, push things forward.*
-
-
----
-
-
-💡 Don't wait for permission. If you're stuck, say something. If you have an idea, share it. Keep pushing.
+@Daniela: [tasks]
+@Kamil: [tasks]
+@Cata: [tasks]
 ```
 
 ## State File

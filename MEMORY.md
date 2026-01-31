@@ -46,4 +46,28 @@
 
 ---
 
+## Food & Nutrition (Brașov Reality)
+
+**Detailed context:** `projects/cata-dani/CONTEXT.md`
+
+**Core issue:** Brașov meat quality is shit. Steak ends up in trash. Chicken traumatic.
+
+**Equipment reality:**
+- Cheap induction + stainless pan = unreliable for meat
+- Oven + airfryer = reliable
+- Use oven for ALL meat
+
+**Reliable proteins:** Ground beef, salmon, tofu, halloumi, eggs
+**Avoid:** Steak, chicken, whole cuts (save for restaurants)
+
+**Constraints:**
+- No pork (both), no shrimp (both), no garlic (Cata - gastritis)
+- No beans evening (Dani), no red bell pepper (Dani)
+
+**Working meals:** Salmon baked, tofu stir fry (ginger not garlic), ramen, pasta bolognese, lasagne, halloumi + roasted veg
+
+**The cycle to break:** Order → guilt → can't cook → order again. Solution: 7-day rotation with planned order day.
+
+---
+
 *Update this with significant moments, lessons, context.*

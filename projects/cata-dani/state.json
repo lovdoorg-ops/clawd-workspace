@@ -1,5 +1,5 @@
 {
-  "lastCheckTimestamp": "2026-01-31T18:03:00Z",
+  "lastCheckTimestamp": "2026-01-31T21:01:00Z",
   "openThreads": [
     {
       "id": "vienna-apartment",
@@ -20,7 +20,7 @@
       "summary": "Figure out what to eat — ongoing daily struggle",
       "status": "addressed-today",
       "addedAt": "2026-01-31",
-      "notes": "Tonight: pizza takeout + homemade salad. Suggested arugula/tomato/parmesan or Greek-style options."
+      "notes": "Tonight: pizza takeout + homemade salad. Topic shifted to gaming later in evening."
     },
     {
       "id": "move-planning",
@@ -38,12 +38,13 @@
     }
   ],
   "resolvedThreads": [],
-  "context": "Cata & Dani are in Brașov (Coresi) until April 1. Moving to Vienna for 1-2 months to get Daniela's US visa sorted (she's Colombian with Austrian residence). Then Colombia to visit her family. Food is a huge daily struggle — bad quality in the area, never know what to eat. Tonight they're getting pizza takeout and making salad at home. Daniela dealing with acne and hair loss, seeing dermatologist. Currently organizing the move - listing items to store/sell/discard. Clara B. from WG-Gesucht contacted - Cata sent message via WhatsApp asking for photos/info. Earlier today had detailed food discussion - I synthesized what I learned about their constraints and offered to help with daily meal decisions.",
+  "context": "Cata & Dani are in Brașov (Coresi) until April 1. Moving to Vienna for 1-2 months to get Daniela's US visa sorted (she's Colombian with Austrian residence). Then Colombia to visit her family. Food is a huge daily struggle — bad quality in the area, never know what to eat. Tonight they had pizza + salad. Evening shifted to casual chat - Cata asking about video game recommendations (chill games for wine mode, strategy games, AI games). Currently organizing the move - listing items to store/sell/discard.",
   "knownPreferences": {
     "food": [],
     "restaurants": [],
     "dislikes": ["garlic (Cata - stomach)", "beans evening (Dani - digestion)", "red bell pepper (Dani)", "pork"],
-    "dietary": ["Cata: energy for heavy work/muscles", "Dani: weight loss goal"]
+    "dietary": ["Cata: energy for heavy work/muscles", "Dani: weight loss goal"],
+    "gaming": ["liked Hades 1 & 2", "likes good graphics", "wants engaging but not boring", "doesn't want big commitment/involvement"]
   },
   "danielaHealth": {
     "acne": "in treatment with dermatologist",

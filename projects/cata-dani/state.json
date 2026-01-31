@@ -1,12 +1,12 @@
 {
-  "lastCheckTimestamp": null,
+  "lastCheckTimestamp": "2026-01-31T15:02:00Z",
   "openThreads": [
     {
       "id": "vienna-apartment",
       "summary": "Find apartment in Vienna with registration possibility for visa process",
       "status": "active",
       "addedAt": "2026-01-31",
-      "notes": "Move-in March 15 - April 1. WG-Gesucht being monitored by separate cron."
+      "notes": "Move-in March 15 - April 1. Clara B. contacted via WhatsApp. Yvette waiting for photos. Anna S. waiting for availability confirmation."
     },
     {
       "id": "us-visa-daniela",
@@ -21,11 +21,18 @@
       "status": "chronic",
       "addedAt": "2026-01-31",
       "notes": "Food quality in Brașov/Coresi is very poor. Major stress point."
+    },
+    {
+      "id": "move-planning",
+      "summary": "Organize move from Brașov to Vienna",
+      "status": "active",
+      "addedAt": "2026-01-31",
+      "notes": "Started list at 12:37 UTC. Storage: pans, knives, blender, airfryer, water boiler, bed cover. Sell: PS5, 2 desks, chairs, gym stuff, MacBook. Need cartons. Dani asked to add items but hasn't yet."
     }
   ],
   "askedAbout": [],
   "resolvedThreads": [],
-  "context": "Cata & Dani are in Brașov (Coresi) until April 1. Moving to Vienna for 1-2 months to get Daniela's US visa sorted (she's Colombian with Austrian residence). Then Colombia to visit her family. Food is a huge daily struggle — bad quality in the area, never know what to eat. Daniela dealing with acne and hair loss, seeing dermatologist.",
+  "context": "Cata & Dani are in Brașov (Coresi) until April 1. Moving to Vienna for 1-2 months to get Daniela's US visa sorted (she's Colombian with Austrian residence). Then Colombia to visit her family. Food is a huge daily struggle — bad quality in the area, never know what to eat. Daniela dealing with acne and hair loss, seeing dermatologist. Currently organizing the move - listing items to store/sell/discard. Clara B. from WG-Gesucht contacted - Cata sent message via WhatsApp asking for photos/info.",
   "knownPreferences": {
     "food": [],
     "restaurants": [],

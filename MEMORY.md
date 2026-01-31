@@ -46,9 +46,11 @@
 
 ---
 
-## Food & Nutrition (Brașov Reality)
+## Cata & Dani (g-cata-dani group)
 
-**Detailed context:** `projects/cata-dani/CONTEXT.md`
+**Source of truth:** `projects/cata-dani/CONTEXT.md` — this is my primary context for helping them in the group chat.
+
+## Food & Nutrition (Brașov Reality)
 
 **Core issue:** Brașov meat quality is shit. Steak ends up in trash. Chicken traumatic.
 

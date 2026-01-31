@@ -1,6 +1,6 @@
 # Cata & Dani - Context & Learnings
 
-Living document. Updated as I learn more about you both.
+**This is my source of truth for the g-cata-dani group chat.** Living document. Updated as I learn more about you both.
 
 ---
 

@@ -1,6 +1,27 @@
 {
   "reportedTrends": [
     {
+      "date": "2026-02-01",
+      "trends": [
+        {
+          "trend": "Neurodermitis & Fitness — Der Dusch-Schmerz",
+          "creator": "@melanie.spct",
+          "url": "https://www.tiktok.com/@melanie.spct/video/7493138282667134230",
+          "why": "FRESH adjacent angle: GYM + SKIN CONDITIONS + SHOWERING. German creator with Neurodermitis sharing gym struggles. Comments reveal people are literally QUITTING the gym because post-workout showers are too painful. KEY INSIGHT: Nobody mentions water quality as contributing factor - education gap!",
+          "stats": "657 likes, 34 comments, 114 saves",
+          "adjacentTopic": "Fitness/Gym + Neurodermitis + Showering",
+          "keyComments": [
+            "Jeder der sagt „du gehst nicht jeden Tag duschen?!" hat keine neurodermitis 🙃 its pure pain my friend (16 likes) - GOLD!",
+            "Gehe einfach nicht mehr hin…weil der Stress danach ist es nicht Wert ehrlich😭😫 (7 likes) - quitting gym due to shower stress!",
+            "Traue mich manchmal garnicht 😂 sehe nach dem Sport aus wie clicker aus the last of us 😅 (28 likes)",
+            "Musste heute abbreche überall Pusteln und hat sooooooo gejuckt 😭 (4 likes)",
+            "Meine Tochter durfte kein Sportunterricht mitmachen. Aufgrund von Neurodermitis, Asthma und Allergien (5 likes)"
+          ],
+          "strategyIdea": "Stitch/Duett: 'Was wenn das Problem nicht nur der Schweiß ist, sondern auch das Wasser?' - Target German fitness community with skin conditions"
+        }
+      ]
+    },
+    {
       "date": "2026-01-31",
       "trends": [
         {
@@ -131,7 +152,7 @@
       }
     }
   ],
-  "lastCheck": "2026-01-31T15:30:00Z",
-  "checkNotes": "Explored ADJACENT topics: Scalp health (Kopfhautpflege), Men's skincare, Neurodermitis. Found hairstylist content where people complain about scalp issues but nobody connects it to water quality - major education gap for Rivoara.",
+  "lastCheck": "2026-02-01T15:10:00Z",
+  "checkNotes": "Explored FITNESS/GYM adjacent topic - found Neurodermitis und Sport content where people complain about showering being 'pure pain' after gym. People quitting fitness because of post-workout shower stress. Nobody connects water quality to the problem - education gap for Rivoara!",
   "notes": "Track reported trends to avoid repeating. Each entry: {date, trend, sound, why}"
 }

@@ -15,40 +15,84 @@ Living document. Updated as I learn more about you both.
 ### Dani (Daniela)
 - Number: +16453336820
 - Nicknames: Your Majesty 💎, Your Amazonic Queen
-- Personality: (learning...)
+- Personality: Trains in mornings, prefers light breakfast, cooking skill level 1 (beginner)
 - Work: Rivoara with Cata
+- Makes arepas with eggs and cheese for breakfast
 
 ---
 
 ## Food & Eating
 
+### Goals
+- **Cata:** Energy, muscles, power for heavy lifting (mind & body)
+- **Dani:** Losing weight
+- **Approach:** Same base meals, different portions. Cata adds carbs, Dani goes heavier on veg.
+
 ### Constraints
-- **Dani:** No beans in the evening (digestive issues)
-- **Both:** Garlic and raw onions can upset stomach
+- **Both:** No pork
+- **Both:** No shrimp (except Spanish pil pil which requires garlic anyway)
 - **Both:** Food fatigue is REAL — same thing 2-3 days = done
+- **Dani:** No beans in the evening (digestive issues)
+- **Dani:** No red bell pepper
+- **Cata:** Garlic kills stomach (but loves it) — use ginger instead
+- **Cata:** Gastritis issues, pizza hurts, cheap meat hurts
+
+### Brașov-Specific Issues
+- Meat quality is shit
+- Chicken thighs = traumatic experience (couldn't eat chicken for weeks)
+- Steak often wasted (quality + cheap induction + stainless pan)
+- Limited good restaurant options
+
+### Equipment Strategy
+| Use | Avoid |
+|-----|-------|
+| Oven (all meat) | Induction for meat |
+| Airfryer | |
+| Induction for pasta/boiling/stir fry | |
+- Have lasagne form for oven
+- Airfryer works for katsu
+
+### Reliable Proteins (Brașov)
+- Ground beef (forgiving) → meatballs, bolognese, lasagne
+- Salmon/fish
+- Tofu
+- Halloumi
+- Eggs
+
+### Unreliable (skip or order at restaurant)
+- Steak
+- Chicken
+- Whole cuts generally
 
 ### Patterns
 - Order/eat out → feel guilty → struggle to cook → order again (cycle)
-- Have ingredients but lack "quick wins" (ready-to-eat or 5-min meals)
+- Have ingredients but lack "quick wins"
 - Decision fatigue hits hard when tired/hungry
-- Brașov specifically = limited good restaurant options?
 
 ### What Works
-- Tofu stir fry (ginger instead of garlic)
-- Need VARIETY — rotation not repetition
-- "Lazy meals" that require zero thinking
+- Tofu stir fry (ginger, soy sauce)
+- Ramen
+- Katsu in airfryer
+- Purée with veg and meat (oven meat)
+- Pasta bolognese (Cata makes well)
+- Mexican bowl (Cata only — beans + spicy hurt Dani)
+- Lasagne (weekend project)
+- Oven salmon + veg
 
-### Meal Rotation Ideas
-1. Tofu stir fry + rice
-2. Pasta (pesto or tomato based)
-3. Shakshuka (when eggs haven't been had)
-4. Big salad + grilled halloumi
-5. Fried rice
-6. Soup + good bread
-7. Quesadillas (cheese only for Dani)
-8. Rice bowls
-9. Veggie curry
-10. Planned order day (guilt-free)
+### Meal Rotation
+1. Salmon baked + veg + rice
+2. Tofu stir fry + ginger + rice
+3. Ramen (egg, veg, good broth)
+4. Pasta bolognese
+5. Lasagne (oven)
+6. Halloumi + roasted veg
+7. Order day (planned, guilt-free)
+
+Cata bonus: Mexican bowl when Dani wants something else
+
+### Breakfast
+- **Dani:** Oatmeal, light food (trains mornings)
+- **Cata:** Arepas + eggs + cheese (Dani makes), wants variety
 
 ---
 
@@ -96,4 +140,4 @@ Living document. Updated as I learn more about you both.
 
 ---
 
-*Last updated: 2026-01-31*
+*Last updated: 2026-01-31 (nutrition deep dive)*

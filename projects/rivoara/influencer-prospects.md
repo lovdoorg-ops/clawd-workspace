@@ -46,6 +46,7 @@ Potential TikTok creators for product seeding — shower filter in exchange for 
 
 | Handle | URL | Niche | Notes | Added |
 |--------|-----|-------|-------|-------|
+| @icedcarla | https://www.tiktok.com/@icedcarla | Lifestyle/Beauty | Berlin-based (Carla), ~10K followers, ALREADY talks about hard water problems in Germany! Lifestyle content, hair/skin issues from water. Email: collab@carlaperez.me | 2026-01-30 |
 | @sannnaae | https://www.tiktok.com/@sannnaae | Skin prep/GRWM | German, skin prep (40.1K likes) - might be bigger | 2026-01-26 |
 | @bynhupham | https://www.tiktok.com/@bynhupham | Skincare/acne | German, acne journey (43.9K likes) - might be too big | 2026-01-26 |
 | @skinsciencebymerit | https://www.tiktok.com/@skinsciencebymerit | Skincare education | German, skincare tips - educational | 2026-01-26 |

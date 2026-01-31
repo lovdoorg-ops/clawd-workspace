@@ -1,5 +1,5 @@
 {
-  "lastInboxCheck": "2026-01-31T09:00:00Z",
+  "lastInboxCheck": "2026-01-31T12:00:00Z",
   "lastSearchCheck": "2026-01-30T14:00:00Z",
   "seenListings": [
     "1298218",
@@ -36,6 +36,7 @@
     "12736177"
   ],
   "seenMessages": [
+    {"id": "clara-b-39", "from": "Clara B. (39)", "date": "2026-01-31", "summary": "3-Zimmer-Wohnung Wien, ~80m², 2 Bad, offene Küche. Sie behält 10m² Zimmer, kommt max 1x/Woche. WhatsApp: +43 664 120 5911"},
     {"id": "markos-muehlschlegel-39", "from": "Markos Mühlschlegel (39)", "date": "2026-01-29", "summary": "2 Zimmer in Wohnung mit Coworkingspace, Langzeit möglich, Links: 12952121, 12952280"},
     {"id": "klaus-michael-le-goff-36-scam", "from": "Klaus-Michael Le Goff (36)", "date": "2026-01-28", "summary": "SCAM/PHISHING - fake account warning with Cyrillic characters"},
     {"id": "yvette-55-anzengruber", "from": "Frau Yvette (55)", "date": "2026-01-27", "summary": "1050 Wien, Anzengrubergasse 4/4"},
@@ -50,6 +51,6 @@
     {"id": "sabrina-35", "from": "Sabrina (35)", "date": "2025-04-09", "summary": "Hallein, 2 rooms"},
     {"id": "ronny-44", "from": "Ronny (44)", "date": "2025-04-06", "summary": "Garden apartment, waiting for plans"}
   ],
-  "sentToWhatsApp": ["markos-muehlschlegel-39", "wg-search-2026-01-29", "wg-search-2026-01-30"],
-  "notes": "2026-01-31 09:00 UTC: Inbox check - no new messages. Still waiting for replies from Yvette (photos) and Anna S. (availability). Listing 12948595 bumped successfully at 09:00."
+  "sentToWhatsApp": ["markos-muehlschlegel-39", "wg-search-2026-01-29", "wg-search-2026-01-30", "clara-b-39"],
+  "notes": "2026-01-31 12:00 UTC: New message from Clara B. - promising offer! 3-room apartment Vienna with 2 bathrooms. Bump already done at 09:00 today. Still waiting for replies from Yvette (photos) and Anna S. (availability)."
 }

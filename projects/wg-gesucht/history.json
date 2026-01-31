@@ -1,6 +1,6 @@
 {
-  "lastInboxCheck": "2026-01-31T12:00:00Z",
-  "lastSearchCheck": "2026-01-30T14:00:00Z",
+  "lastInboxCheck": "2026-01-31T15:00:00Z",
+  "lastSearchCheck": "2026-01-31T14:00:00Z",
   "seenListings": [
     "1298218",
     "11380339",
@@ -33,7 +33,11 @@
     "11003780",
     "12995525",
     "12990966",
-    "12736177"
+    "12736177",
+    "13004629",
+    "12995017",
+    "13000567",
+    "12883174"
   ],
   "seenMessages": [
     {"id": "clara-b-39", "from": "Clara B. (39)", "date": "2026-01-31", "summary": "3-Zimmer-Wohnung Wien, ~80m², 2 Bad, offene Küche. Sie behält 10m² Zimmer, kommt max 1x/Woche. WhatsApp: +43 664 120 5911"},
@@ -52,5 +56,5 @@
     {"id": "ronny-44", "from": "Ronny (44)", "date": "2025-04-06", "summary": "Garden apartment, waiting for plans"}
   ],
   "sentToWhatsApp": ["markos-muehlschlegel-39", "wg-search-2026-01-29", "wg-search-2026-01-30", "clara-b-39"],
-  "notes": "2026-01-31 12:00 UTC: New message from Clara B. - promising offer! 3-room apartment Vienna with 2 bathrooms. Bump already done at 09:00 today. Still waiting for replies from Yvette (photos) and Anna S. (availability)."
+  "notes": "2026-01-31 15:00 UTC: Inbox checked - no new incoming messages. All ongoing conversations: Anna S. (we sent mid-March offer 2h ago), Clara B. (WhatsApp sent), Yvette (waiting for photos, follow-up sent 23h ago). Post already bumped earlier today (~9:00 UTC), shows 'online 6 hours'. Next bump possible tomorrow."
 }

@@ -31,24 +31,31 @@ Share what you finished or worked on this week.
 
 **Message 1 - Done:**
 ```
-**Week X (Date Range)**
+Week X (Date Range)
 
 
-✅ **Done last week:**
+Done last week:
 
-- Daniela: [items]
-- Kamil: [items]
-- Cata: [items]
+✓ Daniela: [items]
+✓ Kamil: [items]
+✓ Cata: [items]
 ```
 
-**Message 2 - Active tasks:**
+**Message 2 - Active tasks (with @mentions using phone numbers):**
 ```
-🎯 **Active tasks (until Saturday, [Date]):**
+Active tasks (until Saturday, [Date]):
 
-@Daniela: [tasks]
-@Kamil: [tasks]
-@Cata: [tasks]
+@16453336820: [Daniela's tasks]
+
+@48530555447: [Kamil's tasks]
+
+@4917657728885: [Cata's tasks]
 ```
+
+Phone numbers for mentions:
+- Daniela: 16453336820
+- Kamil: 48530555447
+- Cata: 4917657728885
 
 ## State File
 `state.json` - tracks current tasks, owners, status

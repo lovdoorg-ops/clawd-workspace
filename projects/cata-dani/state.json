@@ -1,12 +1,39 @@
 {
   "lastCheckTimestamp": null,
-  "openThreads": [],
+  "openThreads": [
+    {
+      "id": "vienna-apartment",
+      "summary": "Find apartment in Vienna with registration possibility for visa process",
+      "status": "active",
+      "addedAt": "2026-01-31",
+      "notes": "Move-in March 15 - April 1. WG-Gesucht being monitored by separate cron."
+    },
+    {
+      "id": "us-visa-daniela",
+      "summary": "Get US visa for Daniela (Colombian with Austrian residence card)",
+      "status": "waiting",
+      "addedAt": "2026-01-31",
+      "notes": "Depends on Vienna apartment with registration. Then Colombia trip after."
+    },
+    {
+      "id": "daily-food",
+      "summary": "Figure out what to eat — ongoing daily struggle",
+      "status": "chronic",
+      "addedAt": "2026-01-31",
+      "notes": "Food quality in Brașov/Coresi is very poor. Major stress point."
+    }
+  ],
   "askedAbout": [],
   "resolvedThreads": [],
-  "context": "Just started observing. Getting to know the rhythm of the group.",
+  "context": "Cata & Dani are in Brașov (Coresi) until April 1. Moving to Vienna for 1-2 months to get Daniela's US visa sorted (she's Colombian with Austrian residence). Then Colombia to visit her family. Food is a huge daily struggle — bad quality in the area, never know what to eat. Daniela dealing with acne and hair loss, seeing dermatologist.",
   "knownPreferences": {
     "food": [],
     "restaurants": [],
-    "other": []
+    "dislikes": [],
+    "dietary": []
+  },
+  "danielaHealth": {
+    "acne": "in treatment with dermatologist",
+    "hairLoss": "in treatment with dermatologist"
   }
 }

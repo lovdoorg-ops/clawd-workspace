@@ -97,21 +97,31 @@ See **cron-jobs.md** for full details. All task jobs run in **isolated sessions*
 
 ---
 
-## Browser Profiles
+## Browser Setup — IMPORTANT
 
-| Profile | Purpose | Notes |
-|---------|---------|-------|
-| **vnc** | noVNC Chrome (logged-in sessions) | WG-Gesucht, TikTok, Instagram, etc. |
-| **clawd** | Headless isolated browser | Fresh sessions, no logins |
+**ONE browser only: `vnc` (noVNC Chrome)**
 
-**Always use `profile=vnc`** for tasks requiring logged-in accounts (WG-Gesucht, social media).
+This is the shared browser between human and Clawd. All logged-in sessions live here.
+- WG-Gesucht, TikTok, Instagram, Google, GitHub — everything.
+- `vnc` is set as `defaultProfile` in config, so it's used automatically.
+- **NEVER create or use other profiles** (no `clawd`, no `chrome`, nothing else).
 
-Config: `~/.clawdbot/clawdbot.json` → `browser.profiles.vnc.cdpUrl = "http://[::1]:9222"`
+**Config:** `~/.clawdbot/clawdbot.json`
+```json
+"browser": {
+  "defaultProfile": "vnc",
+  "profiles": {
+    "vnc": {
+      "cdpUrl": "http://[::1]:9222"
+    }
+  }
+}
+```
 
-If browser stops working, check:
-1. noVNC Chrome is running (`ps aux | grep chrome-novnc`)
-2. Port 9222 is on IPv6 (`curl -s 'http://[::1]:9222/json/list'`)
-3. Config has correct cdpUrl (not cdpPort)
+**If browser stops working:**
+1. Is noVNC Chrome running? `ps aux | grep chrome-novnc`
+2. Can we reach it? `curl -s 'http://[::1]:9222/json/list'`
+3. Config still correct? Check `cdpUrl` is `http://[::1]:9222` (IPv6, not IPv4)
 
 ---
 

@@ -24,13 +24,17 @@ Potential TikTok creators for product seeding — shower filter in exchange for 
 | @anfisachel | https://www.tiktok.com/@anfisachel | ~2K | Skincare & Haircare | German, "your hair girlie", explicitly skincare & haircare niche - PERFECT for shower filter! | 2026-01-29 |
 | @onlylaine.e | https://www.tiktok.com/@onlylaine.e | ~4.5K | Haircare, Makeup, Lifestyle | German (Laine), "Make Up💄 Lifestyle✨ Tipps💯 Hair🫧", actively does #anzeige content, perfect haircare focus | 2026-01-30 |
 | @dajana.cvt | https://www.tiktok.com/@dajana.cvt | ~3.5K | Hair, Makeup, Talks | German (Dajana), "hair \| make up \| talks", email: dajanacvijetic5@gmail.com, #hairtok #skincaretips content | 2026-01-30 |
+| @skincaregirlinger | https://www.tiktok.com/@skincaregirlinger | 1,048 | UGC Skincare | Indonesian in Germany, Medical doctor + skincare lover! UGC creator. Email: skincaregirlinger@gmail.com | 2026-02-01 |
+| @drogeriempfehlungenn | https://www.tiktok.com/@drogeriempfehlungenn | 2,543 | Drogerie Hauls | German, "Hauls, Tipps und Empfehlungen" - perfect drogerie niche. DM for collabs | 2026-02-01 |
+| @drogerieempfehlungennn | https://www.tiktok.com/@drogerieempfehlungennn | 2,161 | Drogerie | German, Rossmann/DM focus - exactly where shower filters sell! | 2026-02-01 |
 
 ## A-Tier Prospects
 
 | Handle | URL | Niche | Notes | Added |
 |--------|-----|-------|-------|-------|
 | @girlssavespace | https://www.tiktok.com/@girlssavespace | GRWM skincare | German, "Mein erstes GURWM" - just starting (53 likes), PERFECT! | 2026-01-26 |
-| @karina.tbn | https://www.tiktok.com/@karina.tbn | Skincare routine | German, "Meine Skincare-Reinigung" (777 likes), aesthetic | 2026-01-26 |
+| @karina.tbn | https://www.tiktok.com/@karina.tbn | Skincare routine | German (Karina), 16.2K followers, UGC Beauty creator. Email: Karina.kooperation@gmail.com. Has linktree. | 2026-02-01 |
+| @hannelbanneli | https://www.tiktok.com/@hannelbanneli | Skincare/makeup | German (hannel), 18K followers, "wannabe influencer" with drogerie playlists. Email: hannelbanneli@outlook.de | 2026-02-01 |
 | @katja.stz | https://www.tiktok.com/@katja.stz | Skincare | German, "die wahren benutzen zinksalbe" (4909 likes), authentic | 2026-01-26 |
 | @ellendieerdbeere | https://www.tiktok.com/@ellendieerdbeere | GRWM skincare | German, aesthetic "Skincare Girly" vibes | 2026-01-26 |
 | @stellaaelena | https://www.tiktok.com/@stellaaelena | Skincare | German, has IG: stellaarhg | 2026-01-26 |
@@ -52,7 +56,7 @@ Potential TikTok creators for product seeding — shower filter in exchange for 
 | @skinsciencebymerit | https://www.tiktok.com/@skinsciencebymerit | Skincare education | German, skincare tips - educational | 2026-01-26 |
 | @ann.dyu | https://www.tiktok.com/@ann.dyu | Skincare/K-beauty | German, has brand deals (Abib) - might expect payment | 2026-01-26 |
 | @bella.skiy | https://www.tiktok.com/@bella.skiy | Haircare | German (Bella Skiy), 51.8K followers, Haarpflege creator, ALREADY talks about Duschfilter! Might expect payment but perfect niche | 2026-01-28 |
-| @letitiasophie | https://www.tiktok.com/@letitiasophie | Skincare/drogerie | German (Letitia), drogerie skincare content | 2026-01-28 |
+| @letitiasophie | https://www.tiktok.com/@letitiasophie | Skincare/drogerie | German (Letitia), 152K followers - TOO BIG for free product. Email: letitia.sph@gmail.com | 2026-02-01 |
 | @milaalanah | https://www.tiktok.com/@milaalanah | Selfcare/aesthetic | German (Mila), Sunday reset, cleangirl aesthetic | 2026-01-28 |
 
 ---

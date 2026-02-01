@@ -1,12 +1,19 @@
 {
-  "lastCheckTimestamp": "2026-02-01T09:01:00Z",
+  "lastCheckTimestamp": "2026-02-01T12:01:00Z",
   "openThreads": [
+    {
+      "id": "weekly-food-shopping",
+      "summary": "Weekly grocery shopping plan - awaiting their feedback",
+      "status": "waiting",
+      "addedAt": "2026-02-01",
+      "notes": "Feb 1 10:58 UTC: Provided full shopping list + meal rotation. Asked if anything to add/remove. No response yet."
+    },
     {
       "id": "vienna-apartment",
       "summary": "Find apartment in Vienna with registration possibility for visa process",
       "status": "active",
       "addedAt": "2026-01-31",
-      "notes": "Move-in March 15 - April 1. Anna S. waiting for reply about mid-March flexibility. Yvette waiting for photos. Clara B. already forwarded."
+      "notes": "Move-in March 15 - April 1. Anna S. waiting for reply about mid-March flexibility. Yvette waiting for photos. Clara B. already forwarded. WG-Gesucht session logged out - needs manual re-login."
     },
     {
       "id": "us-visa-daniela",
@@ -14,13 +21,6 @@
       "status": "waiting",
       "addedAt": "2026-01-31",
       "notes": "Depends on Vienna apartment with registration. Then Colombia trip after."
-    },
-    {
-      "id": "daily-food",
-      "summary": "Figure out what to eat — ongoing daily struggle",
-      "status": "pending",
-      "addedAt": "2026-01-31",
-      "notes": "Jan 31: pizza takeout + homemade salad. Feb 1: new day, Sunday."
     },
     {
       "id": "move-planning",
@@ -35,10 +35,21 @@
       "question": "What do you usually have in the fridge for salad stuff?",
       "when": "2026-01-31T17:39:00Z",
       "context": "They mentioned getting pizza + making salad, I suggested options and asked"
+    },
+    {
+      "question": "Anything to add/remove from the weekly shopping list?",
+      "when": "2026-02-01T10:58:00Z",
+      "context": "Provided full weekly shopping list after they said fridge is empty"
     }
   ],
-  "resolvedThreads": [],
-  "context": "Cata & Dani are in Brașov (Coresi) until April 1. Moving to Vienna for 1-2 months to get Daniela's US visa sorted (she's Colombian with Austrian residence). Then Colombia to visit her family. Food is a huge daily struggle — bad quality in the area, never know what to eat. Jan 31 evening: wine mode gaming chat. Cata feels bored after Elden Ring, everything feels like brain rot. Discussed many game recommendations. Cata values deep, systems-driven games like Kenshi - not 'brain rot' mainstream stuff. Conversation ended naturally late night (~23:30 their time). Feb 1: Sunday, no new activity yet.",
+  "resolvedThreads": [
+    {
+      "id": "daily-food",
+      "summary": "Evolved into weekly-food-shopping thread",
+      "resolvedAt": "2026-02-01"
+    }
+  ],
+  "context": "Cata & Dani are in Brașov (Coresi) until April 1. Moving to Vienna for 1-2 months to get Daniela's US visa sorted (she's Colombian with Austrian residence). Then Colombia to visit her family. Food is a huge daily struggle — bad quality in the area, never know what to eat. Jan 31 evening: wine mode gaming chat. Cata feels bored after Elden Ring, everything feels like brain rot. Feb 1: Sunday. Fridge almost empty, need weekly shopping. Provided full shopping list + meal rotation at 10:58 UTC, waiting for feedback. They were heading to gym.",
   "knownPreferences": {
     "food": [],
     "restaurants": [],

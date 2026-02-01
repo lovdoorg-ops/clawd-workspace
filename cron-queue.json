@@ -1,4 +1,12 @@
 {
   "version": 1,
-  "tasks": []
+  "tasks": [
+    {
+      "id": "tiktok-rivoara-warmup-20260201-1100",
+      "job": "tiktok-rivoara-warmup",
+      "status": "completed",
+      "createdAt": "2026-02-01T11:00:00Z",
+      "completedAt": "2026-02-01T11:30:00Z"
+    }
+  ]
 }

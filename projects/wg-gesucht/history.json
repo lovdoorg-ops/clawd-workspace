@@ -1,5 +1,5 @@
 {
-  "lastInboxCheck": "2026-02-01T09:00:00Z",
+  "lastInboxCheck": "2026-02-01T12:00:00Z",
   "lastSearchCheck": "2026-01-31T14:00:00Z",
   "seenListings": [
     "1298218",
@@ -56,5 +56,5 @@
     {"id": "ronny-44", "from": "Ronny (44)", "date": "2025-04-06", "summary": "Garden apartment, waiting for plans"}
   ],
   "sentToWhatsApp": ["markos-muehlschlegel-39", "wg-search-2026-01-29", "wg-search-2026-01-30", "clara-b-39"],
-  "notes": "2026-02-01 09:00 UTC: Inbox checked - no new incoming messages. Active conversations: Anna S. (awaiting her reply, Cata messaged ~20h ago), Yvette (awaiting photos, Cata asked yesterday). Post #12948595 was bumped ~5h ago (shows 'online 5 Stunden'), next bump available around 04:00 UTC Feb 2."
+  "notes": "2026-02-01 12:00 UTC: Session logged out - couldn't check inbox or bump. Needs manual re-login. Last successful check (09:00 UTC) showed no new messages. Active conversations: Anna S. (awaiting her reply), Yvette (awaiting photos). Post #12948595 last bumped ~8h ago."
 }

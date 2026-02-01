@@ -69,6 +69,10 @@
 - Have ingredients but lack "quick wins"
 - Decision fatigue hits hard when tired/hungry
 
+### Rules for Clawd
+- **NEVER suggest ordering food** — not even as an option
+- Help break the cycle, not feed it
+
 ### What Works
 - Tofu stir fry (ginger, soy sauce)
 - Ramen

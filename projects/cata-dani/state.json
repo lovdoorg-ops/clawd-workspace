@@ -1,5 +1,5 @@
 {
-  "lastCheckTimestamp": "2026-01-31T21:01:00Z",
+  "lastCheckTimestamp": "2026-02-01T00:04:00Z",
   "openThreads": [
     {
       "id": "vienna-apartment",
@@ -20,7 +20,7 @@
       "summary": "Figure out what to eat — ongoing daily struggle",
       "status": "addressed-today",
       "addedAt": "2026-01-31",
-      "notes": "Tonight: pizza takeout + homemade salad. Topic shifted to gaming later in evening."
+      "notes": "Jan 31: pizza takeout + homemade salad. Evening shifted to gaming chat."
     },
     {
       "id": "move-planning",
@@ -38,13 +38,13 @@
     }
   ],
   "resolvedThreads": [],
-  "context": "Cata & Dani are in Brașov (Coresi) until April 1. Moving to Vienna for 1-2 months to get Daniela's US visa sorted (she's Colombian with Austrian residence). Then Colombia to visit her family. Food is a huge daily struggle — bad quality in the area, never know what to eat. Tonight they had pizza + salad. Evening shifted to casual chat - Cata asking about video game recommendations (chill games for wine mode, strategy games, AI games). Currently organizing the move - listing items to store/sell/discard.",
+  "context": "Cata & Dani are in Brașov (Coresi) until April 1. Moving to Vienna for 1-2 months to get Daniela's US visa sorted (she's Colombian with Austrian residence). Then Colombia to visit her family. Food is a huge daily struggle — bad quality in the area, never know what to eat. Jan 31: had pizza + salad. Late evening turned into wine mode gaming chat - Cata was bored post-Elden Ring, asked about chill games, zombie games, trading games. Discussed Kenshi and games that aren't 'brain rot'. Still organizing the move - listing items to store/sell/discard.",
   "knownPreferences": {
     "food": [],
     "restaurants": [],
     "dislikes": ["garlic (Cata - stomach)", "beans evening (Dani - digestion)", "red bell pepper (Dani)", "pork"],
     "dietary": ["Cata: energy for heavy work/muscles", "Dani: weight loss goal"],
-    "gaming": ["liked Hades 1 & 2", "likes good graphics", "wants engaging but not boring", "doesn't want big commitment/involvement"]
+    "gaming": ["liked Hades 1 & 2", "likes good graphics", "wants engaging but not boring", "doesn't want big commitment/involvement", "loved Kenshi (deep systems, emergent gameplay)", "post-Elden Ring everything feels boring"]
   },
   "danielaHealth": {
     "acne": "in treatment with dermatologist",

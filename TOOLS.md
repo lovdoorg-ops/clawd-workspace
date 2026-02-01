@@ -97,6 +97,24 @@ See **cron-jobs.md** for full details. All task jobs run in **isolated sessions*
 
 ---
 
+## Browser Profiles
+
+| Profile | Purpose | Notes |
+|---------|---------|-------|
+| **vnc** | noVNC Chrome (logged-in sessions) | WG-Gesucht, TikTok, Instagram, etc. |
+| **clawd** | Headless isolated browser | Fresh sessions, no logins |
+
+**Always use `profile=vnc`** for tasks requiring logged-in accounts (WG-Gesucht, social media).
+
+Config: `~/.clawdbot/clawdbot.json` → `browser.profiles.vnc.cdpUrl = "http://[::1]:9222"`
+
+If browser stops working, check:
+1. noVNC Chrome is running (`ps aux | grep chrome-novnc`)
+2. Port 9222 is on IPv6 (`curl -s 'http://[::1]:9222/json/list'`)
+3. Config has correct cdpUrl (not cdpPort)
+
+---
+
 ## Notes
 
 *Add camera names, SSH hosts, voice preferences, device nicknames here as needed.*

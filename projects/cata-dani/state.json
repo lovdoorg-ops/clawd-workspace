@@ -1,12 +1,12 @@
 {
-  "lastCheckTimestamp": "2026-02-01T03:02:00Z",
+  "lastCheckTimestamp": "2026-02-01T06:03:00Z",
   "openThreads": [
     {
       "id": "vienna-apartment",
       "summary": "Find apartment in Vienna with registration possibility for visa process",
       "status": "active",
       "addedAt": "2026-01-31",
-      "notes": "Move-in March 15 - April 1. Clara B. contacted via WhatsApp. Yvette waiting for photos. Anna S. waiting for availability confirmation."
+      "notes": "Move-in March 15 - April 1. Anna S. waiting for reply about mid-March flexibility. Yvette waiting for photos. Clara B. already forwarded."
     },
     {
       "id": "us-visa-daniela",
@@ -18,9 +18,9 @@
     {
       "id": "daily-food",
       "summary": "Figure out what to eat — ongoing daily struggle",
-      "status": "addressed-today",
+      "status": "pending",
       "addedAt": "2026-01-31",
-      "notes": "Jan 31: pizza takeout + homemade salad. Evening shifted to gaming chat."
+      "notes": "Jan 31: pizza takeout + homemade salad. New day, will need to figure out again."
     },
     {
       "id": "move-planning",
@@ -38,13 +38,24 @@
     }
   ],
   "resolvedThreads": [],
-  "context": "Cata & Dani are in Brașov (Coresi) until April 1. Moving to Vienna for 1-2 months to get Daniela's US visa sorted (she's Colombian with Austrian residence). Then Colombia to visit her family. Food is a huge daily struggle — bad quality in the area, never know what to eat. Jan 31: had pizza + salad. Late evening turned into wine mode gaming chat - Cata was bored post-Elden Ring, asked about chill games, zombie games, trading games. Discussed Kenshi and games that aren't 'brain rot'. Still organizing the move - listing items to store/sell/discard.",
+  "context": "Cata & Dani are in Brașov (Coresi) until April 1. Moving to Vienna for 1-2 months to get Daniela's US visa sorted (she's Colombian with Austrian residence). Then Colombia to visit her family. Food is a huge daily struggle — bad quality in the area, never know what to eat. Jan 31 evening: wine mode gaming chat. Cata feels bored after Elden Ring, everything feels like brain rot. Discussed many game recommendations. Cata values deep, systems-driven games like Kenshi - not 'brain rot' mainstream stuff. Nightreign is out but he doesn't want to buy a similar game. Asked about trading games, zombie games, strategy. Conversation ended naturally late night (~23:30 their time).",
   "knownPreferences": {
     "food": [],
     "restaurants": [],
     "dislikes": ["garlic (Cata - stomach)", "beans evening (Dani - digestion)", "red bell pepper (Dani)", "pork"],
     "dietary": ["Cata: energy for heavy work/muscles", "Dani: weight loss goal"],
-    "gaming": ["liked Hades 1 & 2", "likes good graphics", "wants engaging but not boring", "doesn't want big commitment/involvement", "loved Kenshi (deep systems, emergent gameplay)", "post-Elden Ring everything feels boring"]
+    "gaming": [
+      "liked Hades 1 & 2",
+      "liked Elden Ring (ruined other games for him)",
+      "liked Divine Divinity",
+      "liked Kenshi (deep systems, emergent gameplay)",
+      "wants good graphics, not pixel art",
+      "doesn't want big commitment/involvement",
+      "doesn't want 'brain rot' games",
+      "doesn't like BG3's D&D setting",
+      "post-Elden Ring everything feels boring",
+      "values systems-driven games over scripted content"
+    ]
   },
   "danielaHealth": {
     "acne": "in treatment with dermatologist",
